@@ -395,7 +395,7 @@ NickJr.,http://pili-live-hdl.qhmywl.com/dsdtv/a81b6e417028b6d72ed3e6ee7c42619b.f
 靖天卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/6bbfbe0fb0dc5ce3f8db00d8fae9ae5c.flv
 ANIMAXHD,http://pili-live-hdl.qhmywl.com/dsdtv/13b6c6ecbb388c105fd9d98338162abb.flv
 靖洋卡通台,http://pili-live-hdl.qhmywl.com/dsdtv/8fa63f69fe90ce0597aa6d4b7c262810.flv
-爱奇艺#genre#
+爱奇艺,#genre#
 爱奇艺-黑帮电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 爱奇艺-电影精选,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 爱奇艺-好莱坞大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
