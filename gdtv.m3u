@@ -1,173 +1,333 @@
 #EXTM3U
-#EXTINF:-1,CCTV-1高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000105.m3u8
-#EXTINF:-1,CCTV-2高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000137.m3u8
-#EXTINF:-1,CCTV-3高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000131.m3u8
-#EXTINF:-1,CCTV-4高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000122.m3u8
-#EXTINF:-1,CCTV-5高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000132.m3u8
-#EXTINF:-1,CCTV5＋高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000106.m3u8
-#EXTINF:-1,CCTV-6高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000133.m3u8
-#EXTINF:-1,CCTV-7高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000138.m3u8
-#EXTINF:-1,CCTV-8高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000134.m3u8
-#EXTINF:-1,CCTV-9高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000139.m3u8
-#EXTINF:-1,CCTV-10高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000140.m3u8
-#EXTINF:-1,CCTV-12高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000128.m3u8
-#EXTINF:-1,CCTV-14高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000150.m3u8
-#EXTINF:-1,CCTV-13
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000021.m3u8
-#EXTINF:-1,CCTV-15
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000015.m3u8
-#EXTINF:-1,CCTVNEWS
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000054.m3u8
-#EXTINF:-1,北京卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000101.m3u8
-#EXTINF:-1,湖南卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000102.m3u8
-#EXTINF:-1,浙江卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000103.m3u8
-#EXTINF:-1,安徽卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000135.m3u8
-#EXTINF:-1,江苏卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000104.m3u8
-#EXTINF:-1,湖北卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000109.m3u8
-#EXTINF:-1,陶瓷频道高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000136.m3u8
-#EXTINF:-1,辽宁卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000147.m3u8
-#EXTINF:-1,广东卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000112.m3u8
-#EXTINF:-1,黑龙江卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000113.m3u8
-#EXTINF:-1,东方卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000110.m3u8
-#EXTINF:-1,深圳卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000111.m3u8
-#EXTINF:-1,贵州卫视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000124.m3u8
-#EXTINF:-1,东南卫视
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000025.m3u8
-#EXTINF:-1,河北卫视
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000028.m3u8
-#EXTINF:-1,金鹰卡通
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000041.m3u8
-#EXTINF:-1,宁夏卫视
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000090.m3u8
-#EXTINF:-1,旅游卫视
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000060.m3u8
-#EXTINF:-1,四川卫视
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000038.m3u8
-#EXTINF:-1,天津卫视
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000079.m3u8
-#EXTINF:-1,新视觉高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000114.m3u8
-#EXTINF:-1,劲爆体育高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000116.m3u8
-#EXTINF:-1,魅力音乐高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000117.m3u8
-#EXTINF:-1,欢笑剧场高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000118.m3u8
-#EXTINF:-1,全纪实高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000119.m3u8
-#EXTINF:-1,环球纪录
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000123.m3u8
-#EXTINF:-1,中国教育
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000042.m3u8
-#EXTINF:-1,音像世界频道
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000126.m3u8
-#EXTINF:-1,靓妆
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000127.m3u8
-#EXTINF:-1,四海钓鱼高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000129.m3u8
-#EXTINF:-1,家政频道高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000108.m3u8
-#EXTINF:-1,足球频道高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000130.m3u8
-#EXTINF:-1,生活时尚高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000141.m3u8
-#EXTINF:-1,都市剧场高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000142.m3u8
-#EXTINF:-1,上海纪实高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000143.m3u8
-#EXTINF:-1,北京纪实高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000145.m3u8
-#EXTINF:-1,极速汽车高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000146.m3u8
-#EXTINF:-1,游戏风云高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000148.m3u8
-#EXTINF:-1,精彩影视高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000149.m3u8
-#EXTINF:-1,快乐垂钓高清
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000080.m3u8
-#EXTINF:-1,游戏竞技
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000168.m3u8
-#EXTINF:-1,快乐宠物
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000100.m3u8
-#EXTINF:-1,休闲指南
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000097.m3u8
-#EXTINF:-1,CCTV发现之旅
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000099.m3u8
-#EXTINF:-1,法治天地
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000098.m3u8
-#EXTINF:-1,金色频道
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000065.m3u8
-#EXTINF:-1,七彩戏剧
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000066.m3u8
-#EXTINF:-1,央视文化精品
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000046.m3u8
-#EXTINF:-1,风云剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000047.m3u8
-#EXTINF:-1,早期教育
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000071.m3u8
-#EXTINF:-1,怀旧剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000048.m3u8
-#EXTINF:-1,女性时尚
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000091.m3u8
-#EXTINF:-1,中学生
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000093.m3u8
-#EXTINF:-1,新科动漫
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000094.m3u8
-#EXTINF:-1,彩民在线
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000095.m3u8
-#EXTINF:-1,东方财经
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000075.m3u8
-#EXTINF:-1,第一剧场
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000049.m3u8
-#EXTINF:-1,世界地理
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000050.m3u8
-#EXTINF:-1,高尔夫·网球
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000051.m3u8
-#EXTINF:-1,风云足球
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000052.m3u8
-#EXTINF:-1,先锋乒羽
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000082.m3u8
-#EXTINF:-1,天元围棋
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000073.m3u8
-#EXTINF:-1,四海钓鱼
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000056.m3u8
-#EXTINF:-1,测试一
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000044.m3u8
-#EXTINF:-1,测试二
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000045.m3u8
-#EXTINF:-1,DOXTV
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000078.m3u8
-#EXTINF:-1,中华美食
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000085.m3u8
-#EXTINF:-1,摄影频道
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000086.m3u8
-#EXTINF:-1,书画频道
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000081.m3u8
-#EXTINF:-1,环球旅游
-http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=&programid=4200000089.m3u8
+#EXTINF:-1 ,CCTV-1HD
+http://183.238.77.9:9090/live/CCTV1HD_7000.m3u8
+#EXTINF:-1 ,CCTV-2HD
+http://183.238.77.9:9090/live/CCTV2HD_7000.m3u8
+#EXTINF:-1 ,CCTV-3HD
+http://183.238.77.9:9090/live/CCTV3HD_7000.m3u8
+#EXTINF:-1 ,CCTV-4
+http://183.238.77.9:9090/live/CCTV4_1500.m3u8
+#EXTINF:-1 ,CCTV-5HD
+http://183.238.77.9:9090/live/CCTV5HD_7000.m3u8
+#EXTINF:-1 ,CCTV-5+HD
+http://183.238.77.9:9090/live/CCTV5plusHD_7000.m3u8
+#EXTINF:-1 ,CCTV-6HD
+http://183.238.77.9:9090/live/CCTV6HD_7000.m3u8
+#EXTINF:-1 ,CCTV-7HD
+http://183.238.77.9:9090/live/CCTV7HD_7000.m3u8
+#EXTINF:-1 ,CCTV-8HD
+http://183.238.77.9:9090/live/CCTV8HD_7000.m3u8
+#EXTINF:-1 ,CCTV-9HD
+http://183.238.77.9:9090/live/CCTV9HD_7000.m3u8
+#EXTINF:-1 ,CCTV-10HD
+http://183.238.77.9:9090/live/CCTV10HD_7000.m3u8
+#EXTINF:-1 ,CCTV-11
+http://183.238.77.9:9090/live/CCTV11_1500.m3u8
+#EXTINF:-1 ,CCTV-12HD
+http://183.238.77.9:9090/live/CCTV12HD_7000.m3u8
+#EXTINF:-1 ,CCTV-13
+http://183.238.77.9:9090/live/CCTV13_1500.m3u8
+#EXTINF:-1 ,CCTV-14HD
+http://183.238.77.9:9090/live/CCTV14HD_7000.m3u8
+#EXTINF:-1 ,CCTV-15
+http://183.238.77.9:9090/live/CCTV15music_1500.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://183.238.77.9:9090/live/guangdongHD_7000.m3u8
+#EXTINF:-1 ,广东体育HD
+http://183.238.77.9:9090/live/gdsportsHD_7000.m3u8
+#EXTINF:-1 ,梅州一套
+http://183.238.77.9:9090/live/meizhouyitao_1500.m3u8
+#EXTINF:-1 ,梅州二套
+http://183.238.77.9:9090/live/meizhouertao_1500.m3u8
+#EXTINF:-1 ,广东珠江
+http://183.238.77.9:9090/live/gdzhujiang_1500.m3u8
+#EXTINF:-1 ,广东公共
+http://183.238.77.9:9090/live/gdpublic_1500.m3u8
+#EXTINF:-1 ,广东新闻
+http://183.238.77.9:9090/live/gdnews_1500.m3u8
+#EXTINF:-1 ,广东体育
+http://183.238.77.9:9090/live/gdsports_1500.m3u8
+#EXTINF:-1 ,南方卫视
+http://183.238.77.9:9090/live/gdnanfang_1500.m3u8
+#EXTINF:-1 ,广东经视
+http://183.238.77.9:9090/live/GDjingjikejiaoHD_3000.m3u8
+#EXTINF:-1 ,广东综艺
+http://183.238.77.9:9090/live/gdzongyi_1500.m3u8
+#EXTINF:-1 ,广东影视
+http://183.238.77.9:9090/live/gdyingshi_1500.m3u8
+#EXTINF:-1 ,广东少儿
+http://183.238.77.9:9090/live/gdshaoer_1500.m3u8
+#EXTINF:-1 ,广东房产
+http://183.238.77.9:9090/live/fangchan_1500.m3u8
+#EXTINF:-1 ,广东经济HD
+http://183.238.77.9:9090/live/GDjingjikejiaoHD_7000.m3u8
+#EXTINF:-1 ,珠江电影
+http://183.238.77.9:9090/live/zjfilms_1500.m3u8
+#EXTINF:-1 ,现代教育
+http://183.238.77.9:9090/live/xiandaijiaoyu_1500.m3u8
+#EXTINF:-1 ,岭南戏曲
+http://183.238.77.9:9090/live/lingnanxiqu_1500.m3u8
+#EXTINF:-1 ,广州综合
+http://183.238.77.9:9090/live/guangzhou_1500.m3u8
+#EXTINF:-1 ,广州新闻
+http://183.238.77.9:9090/live/gznews_1500.m3u8
+#EXTINF:-1 ,广州经济
+http://183.238.77.9:9090/live/gzeconomic_1500.m3u8
+#EXTINF:-1 ,广州生活
+http://183.238.77.9:9090/live/gzlife_1500.m3u8
+#EXTINF:-1 ,广州竞赛
+http://183.238.77.9:9090/live/gzcompetition_1500.m3u8
+#EXTINF:-1 ,广州影视
+http://183.238.77.9:9090/live/gzfilms_1500.m3u8
+#EXTINF:-1 ,广州少儿
+http://183.238.77.9:9090/live/gzchild_1500.m3u8
+#EXTINF:-1 ,TVB明珠台
+http://183.238.77.9:9090/live/xgmingzhu_1500.m3u8
+#EXTINF:-1 ,TVB翡翠台
+http://183.238.77.9:9090/live/xgfeicui_1500.m3u8
+#EXTINF:-1 ,凤凰中文
+http://183.238.77.9:9090/live/fhzw_1500.m3u8
+#EXTINF:-1 ,星空卫视
+http://183.238.77.9:9090/live/xingkong_1500.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://183.238.77.9:9090/live/shenzhenHD_7000.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://183.238.77.9:9090/live/dongfangHD_7000.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://183.238.77.9:9090/live/beijingHD_7000.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://183.238.77.9:9090/live/hunanHD_7000.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://183.238.77.9:9090/live/zhejiangHD_7000.m3u8
+#EXTINF:-1 ,四川卫视HD
+http://183.238.77.9:9090/live/sichuanHD_7000.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://183.238.77.9:9090/live/jiangsuHD_7000.m3u8
+#EXTINF:-1 ,重庆卫视HD
+http://183.238.77.9:9090/live/chongqingHD_7000.m3u8
+#EXTINF:-1 ,贵州卫视HD
+http://183.238.77.9:9090/live/guizhouHD_7000.m3u8
+#EXTINF:-1 ,河北卫视HD
+http://183.238.77.9:9090/live/hebeiHD_7000.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://183.238.77.9:9090/live/liaoningHD_7000.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://183.238.77.9:9090/live/tianjinHD_7000.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://183.238.77.9:9090/live/shandongHD_7000.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://183.238.77.9:9090/live/hubeiHD_7000.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://183.238.77.9:9090/live/anhuiHD_7000.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://183.238.77.9:9090/live/heilongjiangHD_7000.m3u8
+#EXTINF:-1 ,DOX院线HD
+http://183.238.77.9:9090/live/DOXyuanxianHD_7000.m3u8
+#EXTINF:-1 ,DOX雅趣HD
+http://183.238.77.9:9090/live/DOXhanliuHD_7000.m3u8
+#EXTINF:-1 ,DOX怡家HD
+http://183.238.77.9:9090/live/DOXyijiaHD_7000.m3u8
+#EXTINF:-1 ,DOX英伦HD
+http://183.238.77.9:9090/live/DOXyinglunHD_7000.m3u8
+#EXTINF:-1 ,DOX新艺HD
+http://183.238.77.9:9090/live/DOXxinyiHD_7000.m3u8
+#EXTINF:-1 ,DOX新知HD
+http://183.238.77.9:9090/live/DOXxinzhiHD_7000.m3u8
+#EXTINF:-1 ,DOX映画HD
+http://183.238.77.9:9090/live/DOXyinghuaHD_7000.m3u8
+#EXTINF:-1 ,DOX剧场HD
+http://183.238.77.9:9090/live/DOXjuchangHD_7000.m3u8
+#EXTINF:-1 ,新视觉HD
+http://183.238.77.9:9090/live/xinshijueHD_7000.m3u8
+#EXTINF:-1 ,全纪实HD
+http://183.238.77.9:9090/live/quanjishiHD_7000.m3u8
+#EXTINF:-1 ,求索纪录HD
+http://183.238.77.9:9090/live/QSJLHD_7000.m3u8
+#EXTINF:-1 ,求索科学HD
+http://183.238.77.9:9090/live/qiusuokexueHD_7000.m3u8
+#EXTINF:-1 ,求索动物HD
+http://183.238.77.9:9090/live/QSDWHD_7000.m3u8
+#EXTINF:-1 ,求索生活HD
+http://183.238.77.9:9090/live/QSSHHD_7000.m3u8
+#EXTINF:-1 ,高清探索HD
+http://183.238.77.9:9090/live/searchHD_7000.m3u8
+#EXTINF:-1 ,高清影院HD
+http://183.238.77.9:9090/live/FilmsHD_7000.m3u8
+#EXTINF:-1 ,高清剧场HD
+http://183.238.77.9:9090/live/TheaterHD_7000.m3u8
+#EXTINF:-1 ,高清综合HD
+http://183.238.77.9:9090/live/zongheHD_7000.m3u8
+#EXTINF:-1 ,高清演示HD
+http://183.238.77.9:9090/live/HDChanneldemo_7000.m3u8
+#EXTINF:-1 ,粤语高清HD
+http://183.238.77.9:9090/live/yueyuHD_7000.m3u8
+#EXTINF:-1 ,劲爆体育HD
+http://183.238.77.9:9090/live/jinbaotiyuHD_7000.m3u8
+#EXTINF:-1 ,欢笑剧场HD
+http://183.238.77.9:9090/live/huanxiaojuchangHD_7000.m3u8
+#EXTINF:-1 ,魅力音乐HD
+http://183.238.77.9:9090/live/meiliyinyueHD_7000.m3u8
+#EXTINF:-1 ,CETV-1
+http://183.238.77.9:9090/live/CETV-1_1500.m3u8
+#EXTINF:-1 ,CGTN国际
+http://183.238.77.9:9090/live/CCTV15news_1500.m3u8
+#EXTINF:-1 ,CCTV老故事
+http://183.238.77.9:9090/live/laogushi_1500.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://183.238.77.9:9090/live/fengyunjuchang_1500.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://183.238.77.9:9090/live/fengyunzuqiu_1500.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://183.238.77.9:9090/live/fengyunyinyue_1500.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://183.238.77.9:9090/live/huaijiujuchang_1500.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://183.238.77.9:9090/live/shijiedili_1500.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://183.238.77.9:9090/live/diyijuchang_1500.m3u8
+#EXTINF:-1 ,CCTV发现之旅
+http://183.238.77.9:9090/live/faxianzhilv_1500.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://183.238.77.9:9090/live/nvxingshishang_1500.m3u8
+#EXTINF:-1 ,CCTV央视精品
+http://183.238.77.9:9090/live/yangshijingpin_1500.m3u8
+#EXTINF:-1 ,CCTV卫生健康
+http://183.238.77.9:9090/live/weishengjiankang_1500.m3u8
+#EXTINF:-1 ,CCTV电视指南
+http://183.238.77.9:9090/live/dianshizhinan_1500.m3u8
+#EXTINF:-1 ,CHC高清电影HD
+http://183.238.77.9:9090/live/CHCHD_7000.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://183.238.77.9:9090/live/CHChometheatre_1500.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://183.238.77.9:9090/live/CHCactionmovie_1500.m3u8
+#EXTINF:-1 ,MTV
+http://183.238.77.9:9090/live/MTV_1500.m3u8
+#EXTINF:-1 ,DOXTV
+http://183.238.77.9:9090/live/DOXTV_1500.m3u8
+#EXTINF:-1 ,汕头一套HD
+http://183.238.77.9:9090/live/shantouyitaogaoqing_4500.m3u8
+#EXTINF:-1 ,汕头二套HD
+http://183.238.77.9:9090/live/shantouertaogaoqing_4500.m3u8
+#EXTINF:-1 ,汕头三套HD
+http://183.238.77.9:9090/live/shantousantaogaoqing_4500.m3u8
+#EXTINF:-1 ,南海综合
+http://183.238.77.9:9090/live/nanhaitai_2000.m3u8
+#EXTINF:-1 ,顺德综合
+http://183.238.77.9:9090/live/shundetai_2000.m3u8
+#EXTINF:-1 ,新会综合
+http://183.238.77.9:9090/live/xinhui_1500.m3u8
+#EXTINF:-1 ,佛山综合
+http://183.238.77.9:9090/live/foshannews_1500.m3u8
+#EXTINF:-1 ,佛山公共
+http://183.238.77.9:9090/live/foshanyingshi_1500.m3u8
+#EXTINF:-1 ,湛江综合
+http://183.238.77.9:9090/live/zhanjiangzonghe_1500.m3u8
+#EXTINF:-1 ,湛江公共
+http://183.238.77.9:9090/live/zhanjianggongong_1500.m3u8
+#EXTINF:-1 ,韶关综合
+http://183.238.77.9:9090/live/shaoguanzonghe_1500.m3u8
+#EXTINF:-1 ,韶关公共
+http://183.238.77.9:9090/live/shaoguangonggong_1500.m3u8
+#EXTINF:-1 ,博罗经典
+http://183.238.77.9:9090/live/boluojingdian_1500.m3u8
+#EXTINF:-1 ,博罗综合
+http://183.238.77.9:9090/live/boluozonghe_1500.m3u8
+#EXTINF:-1 ,云浮一套
+http://183.238.77.9:9090/live/yunfuyitao_1500.m3u8
+#EXTINF:-1 ,云浮二套
+http://183.238.77.9:9090/live/yunfuertao_1500.m3u8
+#EXTINF:-1 ,珠海一套
+http://183.238.77.9:9090/live/zhuhaiyitao_1500.m3u8
+#EXTINF:-1 ,珠海二套
+http://183.238.77.9:9090/live/zhuhaiertao_1500.m3u8
+#EXTINF:-1 ,潮州一套
+http://183.238.77.9:9090/live/chaozhouyitao_1500.m3u8
+#EXTINF:-1 ,潮州二套
+http://183.238.77.9:9090/live/chaozhouertao_1500.m3u8
+#EXTINF:-1 ,东莞一套
+http://183.238.77.9:9090/live/dongguanyitao_1500.m3u8
+#EXTINF:-1 ,东莞二套
+http://183.238.77.9:9090/live/dongguanertao_1500.m3u8
+#EXTINF:-1 ,江门一套
+http://183.238.77.9:9090/live/jiangmenyitao_1500.m3u8
+#EXTINF:-1 ,江门二套
+http://183.238.77.9:9090/live/jiangmenertao_1500.m3u8
+#EXTINF:-1 ,中山一套
+http://183.238.77.9:9090/live/zhongshanyitao_1500.m3u8
+#EXTINF:-1 ,中山二套
+http://183.238.77.9:9090/live/zhongshanertao_1500.m3u8
+#EXTINF:-1 ,河源一套
+http://183.238.77.9:9090/live/heyuanyitao_1500.m3u8
+#EXTINF:-1 ,河源二套
+http://183.238.77.9:9090/live/heyuanertao_1500.m3u8
+#EXTINF:-1 ,肇庆一套
+http://183.238.77.9:9090/live/zhaoqingyitao_1500.m3u8
+#EXTINF:-1 ,肇庆二套
+http://183.238.77.9:9090/live/zhaoqingertao_1500.m3u8
+#EXTINF:-1 ,惠州一套
+http://183.238.77.9:9090/live/huizhouyitao_1500.m3u8
+#EXTINF:-1 ,惠州二套
+http://183.238.77.9:9090/live/huizhouertao_1500.m3u8
+#EXTINF:-1 ,汕头一套
+http://183.238.77.9:9090/live/shantouyitaogaoqing_1500.m3u8
+#EXTINF:-1 ,汕头二套
+http://183.238.77.9:9090/live/shantouertaogaoqing_1500.m3u8
+#EXTINF:-1 ,汕头三套
+http://183.238.77.9:9090/live/shantousantaogaoqing_1500.m3u8
+#EXTINF:-1 ,全纪实
+http://183.238.77.9:9090/live/quanjishi_1500.m3u8
+#EXTINF:-1 ,新动漫
+http://183.238.77.9:9090/live/xindongman_1500.m3u8
+#EXTINF:-1 ,幸福彩
+http://183.238.77.9:9090/live/xingfucai_1500.m3u8
+#EXTINF:-1 ,高尔夫
+http://183.238.77.9:9090/live/golf_1500.m3u8
+#EXTINF:-1 ,劲爆体育
+http://183.238.77.9:9090/live/jinbaotiyu_1500.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://183.238.77.9:9090/live/huanxiaojuchang_1500.m3u8
+#EXTINF:-1 ,法治天地
+http://183.238.77.9:9090/live/fazhitiandi_1500.m3u8
+#EXTINF:-1 ,都市剧场
+http://183.238.77.9:9090/live/dushijuchang_1500.m3u8
+#EXTINF:-1 ,极速汽车
+http://183.238.77.9:9090/live/jisuqiche_1500.m3u8
+#EXTINF:-1 ,魅力音乐
+http://183.238.77.9:9090/live/meiliyinyue_1500.m3u8
+#EXTINF:-1 ,七彩戏剧
+http://183.238.77.9:9090/live/qicaixiju_1500.m3u8
+#EXTINF:-1 ,金色频道
+http://183.238.77.9:9090/live/jinsepindao_1500.m3u8
+#EXTINF:-1 ,生活时尚
+http://183.238.77.9:9090/live/shenghuoshishang_1500.m3u8
+#EXTINF:-1 ,东方财经
+http://183.238.77.9:9090/live/dongfangcaijing_1500.m3u8
+#EXTINF:-1 ,环球奇观
+http://183.238.77.9:9090/live/huanqiuqiguan_1500.m3u8
+#EXTINF:-1 ,中华美食
+http://183.238.77.9:9090/live/zhonghuameishi_1500.m3u8
+#EXTINF:-1 ,书画频道
+http://183.238.77.9:9090/live/shuhua_1500.m3u8
+#EXTINF:-1 ,网络军旗扑克牌
+http://183.238.77.9:9090/live/wangluoqipai_1500.m3u8
+#EXTINF:-1 ,英语辅导
+http://183.238.77.9:9090/live/yingyufudao_1500.m3u8
+#EXTINF:-1 ,先锋乒羽
+http://183.238.77.9:9090/live/pingyu_1500.m3u8
+#EXTINF:-1 ,山东教育
+http://183.238.77.9:9090/live/CETV-4_1500.m3u8
+#EXTINF:-1 ,中国气象
+http://183.238.77.9:9090/live/zgqixiang_1500.m3u8
+#EXTINF:-1 ,动漫秀场
+http://183.238.77.9:9090/live/dongmanxiuchang_1500.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://183.238.77.9:9090/live/gdjiajiacartoon_1500.m3u8
+#EXTINF:-1 ,优漫卡通
+http://183.238.77.9:9090/live/youmankatong_1500.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://183.238.77.9:9090/live/jinyingkatong_1500.m3u8
+#EXTINF:-1 ,炫动卡通
+http://183.238.77.9:9090/live/xuandongkatong_1500.m3u8
+#EXTINF:-1 ,卡酷卡通
+http://183.238.77.9:9090/live/kakushaoer_1500.m3u8
