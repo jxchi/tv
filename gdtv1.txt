@@ -765,116 +765,6 @@ BBC,mitv://198.255.74.87:9906/5dc08f01000ad05201b7902c343bc007.ts#vjms://58.215.
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://121.14.222.75:8500:3502/live/cid=97
 
 
-影视节目,#genre#
-CCTV14少儿,http://106.12.152.67/migu.php?id=624878440
-小猪佩奇,http://106.12.152.67/migu.php?id=639528313
-超级飞侠,http://106.12.152.67/migu.php?id=639528180
-哈哈炫动,http://106.12.152.67/migu.php?id=651638619
-咪咕早教频道,http://106.12.152.67/migu.php?id=617432495
-海底小纵队,http://106.12.152.67/migu.php?id=639528330
-优漫卡通频道,http://106.12.152.67/migu.php?id=626064703
-嘉佳卡通,http://106.12.152.67/migu.php?id=614952364
-浙江少儿频道,http://106.12.152.67/migu.php?id=611318244
-少儿动漫,http://106.12.152.67/migu.php?id=615809462
-童年经典,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_balalaxiaomoxian_1080p_t10/c15_lb_balalaxiaomoxian_1080p_t10.m3u8
-动画小天地,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dishine_1080p_t10/c15_lb_dishine_1080p_t10.m3u8
-动物兄弟,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_yingshijinqu_1080p_t10/c16_lb_yingshijinqu_1080p_t10.m3u8
-怀旧动画,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
-儿童乐园,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
-亲子启蒙,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
-地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
-地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
-跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
-红牡丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8
-侦察兵,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/3e4727a0fca34aa8b9774472a4908eaf/850.m3u8
-三毛流浪记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b9ce94c233b043bebe30340f09868ed1/850.m3u8
-红色娘子军,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2ea3b03b3a414303b830f92579243001/850.m3u8
-五朵金花,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ae639196cf3949368c1b05776bb1d4fa/850.m3u8
-洪湖赤卫队,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/2a58afdece3342eaac927648a2cccabd/850.m3u8
-狼牙山五壮士,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/71c649af833c43a9b61e4f5c913bbd6b/850.m3u8
-海鹰,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/00f88e15028648cab76156c5635effe2/850.m3u8#http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/412ae4c1c5fe4150a14197c437391fe2/850.m3u8
-战上海,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/e84b188d1bf7484fb4907d99827cbd45/850.m3u8
-铁道游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/46d8664dacad4dbb9c790256688048dc/850.m3u8
-红孩子,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/bf55b84744d64eeaaedc5ea603855597/850.m3u8
-宝葫芦的秘密,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/866474add7224067877bed430d9380ab/850.m3u8
-智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
-小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
-小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
-小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-英雄儿女,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
-英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
-大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
-大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/45122e56521f49b68020e3e66bc28ce8/850.m3u8
-大气层消失,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-霹雳贝贝,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7accc94d5590415284af5db904e4be5a/850.m3u8
-泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
-泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
-泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
-柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
-柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
-柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
-柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
-李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
-李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
-大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
-柳毅传书,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/2ee71b96a3574889829e17d70b3f3c02/2000.m3u8
-卷席筒,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8bebd13583e341e1b9d9e1180d36aaaa/850.m3u8
-铡刀下的红梅,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/6f0817bfbedd42c682d9152abd5402a3/850.m3u8
-墙头马上,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c45285c6b2ac46a58d49c9351b18e369/850.m3u8
-花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
-牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
-梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
-铁弓缘,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
-碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
-野猪林,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
-五女拜寿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
-杜鹃山01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
-杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
-红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
-奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
-智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
-沙家浜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
-红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
-红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
-追鱼,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
-穆桂英大战洪州,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
-秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
-望江亭,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/292e3c967f2b469e96878d6047f1cc92/2000.m3u8
-王老虎抢亲,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
-女驸马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
-天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
-李二嫂改嫁01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
-李二嫂改嫁02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
-林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
-万水千山,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/8804d527d9d94b818b42624730203fa9/850.m3u8
-孙悟空三打白骨精,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e34b7a2f93d4efeaf7a583409b270cc/850.m3u8
-巴黎圣母院,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/dd86918aafb042c5b51584ffcf5b0e00/850.m3u8
-罗密欧与朱丽叶,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/95193e30bd454e77bc59a140f4e32ad2/850.m3u8
-魂断蓝桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7fc704c5b2e04e65bab92b3986883ab3/850.m3u8
-茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
-出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
-桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
-
 
 
 
@@ -1691,319 +1581,187 @@ CIBN喜剧影院,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetyp
 
 
 测试,#genre#
-BBC EARTH HD,p2p://fccsovh.pvbox.live:18912/5b1408f200071c8b1d67497b97d9cb56.ts
-國家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d34265514bfb6f766515.ts
-國家地理HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621c40e587775073b82.ts
-CN卡通HD,p2p://fccsovh.pvbox.live:18912/5b593933000710c5a3ca4c34fa26546d.ts
-TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2efc77901768ade973b.ts
-動物星球,p2p://fccsovh.pvbox.live:18912/5b14096100006f33c3bac972d19faa1f.ts
-迪士尼卡通,p2p://fccsovh.pvbox.live:18912/5b593aed0000362178e744fc4c1c5fd9.ts
-CN卡通,p2p://fccsovh.pvbox.live:18912/5b140917000efaac8b9dc0bc37cc52ce.ts
-東森呦呦,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28c40971d986c7cd82.ts
-緯來綜合,p2p://fccsovh.pvbox.live:18912/5b1409230004f71e0d83c0849e52aaa8.ts
-八大第壹,p2p://fccsovh.pvbox.live:18912/5b14096a000440033952922386f29c14.ts
-八大綜合,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c22715c073cc00219e.ts
-三立臺灣,p2p://fccsovh.pvbox.live:18912/5b1409f100088a84f235880957aff78d.ts
-三立都會,p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65285c7b51d6f687ba.ts
-衛視中文臺,p2p://fccsovh.pvbox.live:18912/5b14096a00006f076282fa019e12a609.ts
-東森綜合,p2p://fccsovh.pvbox.live:18912/5b1409f1000dc91b94c7305de25dd8ef.ts
-靖天育樂,p2p://fccsovh.pvbox.live:18912/5b1408f2000e063f468cb824a3310b33.ts
-中天綜合,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345b0e4116fc680a615.ts
-中華美食,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
-中天娛樂,p2p://fccsovh.pvbox.live:18912/5b1409f300034b94ebf0beb069f53d4a.ts
-東森戲劇,p2p://fccsovh.pvbox.live:18912/5b1409f20000320baed094468909debe.ts
-八大戲劇,p2p://fccsovh.pvbox.live:18912/5b1409690000706a43ea67d024275c60.ts
-TVBS歡樂,p2p://fccsovh.pvbox.live:18912/5b1409600006657baa49b8213f0e3f66.ts
-緯來戲劇,p2p://fccsovh.pvbox.live:18912/5b1409f3000a72b5db44dc96e9c29039.ts
-龍祥時代,p2p://fccsovh.pvbox.live:18912/5b14092200071c61e7cc8c7b1a9c4435.ts
-JET 综合,p2p://fccsovh.pvbox.live:18912/5b1409f300012627f2e2c7b5e9d199b2.ts
-靖天映畫,p2p://fccsovh.pvbox.live:18912/5b14093f0002d1c24f5c5a4650a367a9.ts
-壹電視新聞,p2p://fccsovh.pvbox.live:18912/5b14094000088a468e9f73a90c8a9a1b.ts
-年代新聞,p2p://fccsovh.pvbox.live:18912/5c2dd760000328564e395cadf94ed6fd.ts
-東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319b5d18fcb51367464.ts
-中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8af7a528efc80dec.ts
-民視新聞,p2p://fccsovh.pvbox.live:18912/5b1409690004f7336bf154d0f6f43366.ts
-三立新聞,p2p://fccsovh.pvbox.live:18912/5b14090b000e80305b8d32e224e181e9.ts
-TVBS新聞,p2p://fccsovh.pvbox.live:18912/5c2dd76300095ef4c4a636970264bef7.ts
-TVBS綜合,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
-東森財經,p2p://fccsovh.pvbox.live:18912/5b1409f30008c7763c1d409c9d274c77.ts
-非凡商业HD,p2p://fccsovh.pvbox.live:18912/5b140a9a0001dd5b7da8630ccbe3be6f.ts
-非凡新聞,p2p://fccsovh.pvbox.live:18912/5c2dd766000ecf4a460f432edc3d6349.ts
-衛視電影,p2p://fccsovh.pvbox.live:18912/5c2dd76a000ca614f921889064cc6a36.ts
-東森電影,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe23a77313125ba9210.ts
-偉來電影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5bf25650fc689b042b.ts
-HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
-東森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad122881d3a37581383.ts
-好萊塢電影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df52b0d3ac35af1134c.ts
-衛視洋片HD,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea43c4eec53accc7f78.ts
-CINEMAX,p2p://fccsovh.pvbox.live:18912/5b14096000043ff90b1c4aae728ee869.ts
-FOX SPORTS HD,p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856fa460f19c1ca869a.ts
-FOX SPORTS 2,p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf375d45b0008f27d89.ts
-緯來體育,p2p://fccsovh.pvbox.live:18912/5b140921000be1449c98b31f71ca342b.ts
-緯來育樂,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5678844643960b2c2.ts
-偉來日本,p2p://fccsovh.pvbox.live:18912/5b14092b000efa4c2187ccd74bbca208.ts
-國興衛視,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd7873c561c5e8d68502.ts
-Z頻道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a563ab90b72089780b8.ts
-CATCHPLAY HD,p2p://fccsovh.pvbox.live:18912/5b1409db000126a9979ea17404d19ffe.ts
-八大娛樂,p2p://fccsovh.pvbox.live:18912/5b14096a00062806686cbc006dabda87.ts
-HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd99e1d5bcc5ece9c24.ts
-HBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a1031ce8879f0e06db.ts
-大愛二臺,p2p://fccsovh.pvbox.live:18912/5bdbf3990002e4dc8644ddaea1c38dd7.ts
-MTV LIVE HD,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ac9e54fca2a2b4b87.ts
-TVN ,p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9df518e6bc59c1a58f.ts
-EYETV戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000e4339b8b0c6c5ce1e3723.ts
-龍華洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b18cc343dccffbc94.ts
-龍華戲劇,p2p://fccsovh.pvbox.live:18912/5b14091600088a8c1332ee7424a2aada.ts
-龍華動畫,p2p://fccsovh.pvbox.live:18912/5b1409170002d1e2a66e2b6a27dc029d.ts
-龍華偶像,p2p://fccsovh.pvbox.live:18912/5b140918000126266aa17da93c82ff8b.ts
-龍華電影,p2p://fccsovh.pvbox.live:18912/5b140922000d1231461bc9a0356e90cc.ts
-好消息 2,p2p://fccsovh.pvbox.live:18912/5b140922000a72b2d248b81ff303acfd.ts
-ELTA體育 HD,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fca7a40dfec6ae609.ts
-美亞電影,p2p://fccsovh.pvbox.live:18912/5b14098f0007961520b5ac8a74cbb688.ts
-星衛電影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a1017446513068ca3.ts
-星衛娛樂臺,p2p://fccsovh.pvbox.live:18912/5b1408f1000d12495c148baa88ef95ea.ts
-美食星球,p2p://fccsovh.pvbox.live:18912/5b140917000d8bec9eddf1eb3433f44e.ts
-高爾夫網球,p2p://fccsovh.pvbox.live:18912/5b1409530005ae3a2cdc80b4946c106e.ts
-中視新聞,p2p://fccsovh.pvbox.live:18912/5b14095e000f3774d079e8312ab51b46.ts
-環宇綜合,p2p://fccsovh.pvbox.live:18912/5b14098e00034c103698cf28eda70af6.ts
-新視覺,p2p://fccsovh.pvbox.live:18912/5b1409230000ac4783d45d690bf76ea3.ts
-Ci罪案偵緝 HD,p2p://fccsovh.pvbox.live:18912/5b14098e0006282ae5cbefa864012bca.ts
-靖天電影,p2p://fccsovh.pvbox.live:18912/5b14093f0000e91e826856feb99c4ffb.ts
-地理悠人,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff60a8012c4f012aa6.ts
-壹電視綜合,p2p://fccsovh.pvbox.live:18912/5b1409400006a235b684dcee92bcd6f9.ts
-天映頻道,p2p://fccsovh.pvbox.live:18912/5b3c4f98000bbfd563b8f1a1a831454a.ts
-V音樂,p2p://fccsovh.pvbox.live:18912/5b593be2000770487f0adb192bfef549.ts
-CHC 高清電影 HD,p2p://fccsovh.pvbox.live:18912/5b140953000b29efe182d564fc838b15.ts
-探索頻道,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
-DISCOVERY科學頻道 HD,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b696378db44987f83.ts
-探索動力,p2p://fccsovh.pvbox.live:18912/5b14093f000628019471f55c6d955f68.ts
-CHC 動作電影 HD,p2p://fccsovh.pvbox.live:18912/5b14092b0002d180763468c36165ab20.ts
-FOX HD,p2p://fccsovh.pvbox.live:18912/5b14098e000c5aec7e9150ed15a4a480.ts
-FOX MOVIES HD,p2p://fccsovh.pvbox.live:18912/5b7267ae000b9c6c1e08f11a8b135560.ts
-FOX PLUS HD,p2p://fccsovh.pvbox.live:18912/5b140977000ab01d13f89dada038963b.ts
-CHANNEL V HD,p2p://fccsovh.pvbox.live:18912/5b1409dc0004f6ab17d41ff579d83c77.ts
-FOX家庭,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca302f727ea8fb34f5.ts
-FOX動作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
-FOX警匪HD,p2p://fccsovh.pvbox.live:18912/5b14098e000e434e8cf404bafd4e6a24.ts
-FX-HD,p2p://fccsovh.pvbox.live:18912/5b593b240003f74712fd6fb8bd5dd88d.ts
-NBA,p2p://fccsovh.pvbox.live:18912/5b593bea000144c6d0ea86c3eeb60ca7.ts
-BBC,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
-OUTDOOR HD,p2p://fccsovh.pvbox.live:18912/5b1409db000a72d43a06d75e013589d8.ts
-SUNDANCE HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000c5b2ddea340dcff4b000b.ts
-FOX体育,p2p://fccsovh.pvbox.live:18912/5b1409770007963d17d2961902392cd1.ts
-亞洲美食,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
-靖天卡通,p2p://fccsovh.pvbox.live:18912/5b14093e0009fa213ee23ca7907c23ef.ts
-BBC LIFESTYLE CHANNEL,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
-靖天國際,p2p://fccsovh.pvbox.live:18912/5b1408f1000efa28d7b4ec703441dcc9.ts
-靖天戲劇,p2p://fccsovh.pvbox.live:18912/5b14093e000c1de9042f3886014736df.ts
-博斯高球二台,p2p://fccsovh.pvbox.live:18912/5b1409dc00088a66446ae31228d738b2.ts
-博斯運動,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc9237287c99d3f3fb017.ts
-緯來精彩,p2p://fccsovh.pvbox.live:18912/5b14094a0000e951618e2d6de277e7f7.ts
-曼迪日本臺,p2p://fccsovh.pvbox.live:18912/5b1408f1000aeceeb987c2387a72610d.ts
-衛視合家歡,p2p://fccsovh.pvbox.live:18912/5b14096a0001dd41ae3b0049870703a0.ts
-三立戲劇臺,p2p://fccsovh.pvbox.live:18912/5b140916000e8094a3e85b12050c279b.ts
-三立綜合,p2p://fccsovh.pvbox.live:18912/5b14091700012642a17c6e8431f07eb8.ts
-DIVA,p2p://fccsovh.pvbox.live:18912/5b1408f10005adef0e3e2fff37e972cd.ts
-靖天日本,p2p://fccsovh.pvbox.live:18912/5b140916000ab0166440b54d4aa1b37c.ts
-都市劇場,p2p://fccsovh.pvbox.live:18912/5b140921000e805e268f86fafec13b03.ts
-環宇財經,p2p://fccsovh.pvbox.live:18912/5b1408f30002585a9638ab91d5a19773.ts
-環宇新聞,p2p://fccsovh.pvbox.live:18912/5b1408f30005adecf30d9563955b54ce.ts
-LUXE_TV,p2p://fccsovh.pvbox.live:18912/5b1408f2000402a90779e81ba4dc710c.ts
-鴻基影劇臺,p2p://fccsovh.pvbox.live:18912/5b14095e000b67b9b5a1024de3f726ca.ts
-靖洋戲劇臺,p2p://fccsovh.pvbox.live:18912/5b1409170006660396ad8bbae84ddddf.ts
-FOX-NEWS,p2p://fccsovh.pvbox.live:18912/5b593b140008b0a87b763330651120ae.ts
-FOX SPORTS 3 HD,p2p://fccsovh.pvbox.live:18912/5b1409400002d18b2de5d44b96611fae.ts
-DW-TV,p2p://fccsovh.pvbox.live:18912/5b14098f0005711ed0ff2066460b966b.ts
-HBO SIGNATURE WEST,p2p://fccsovh.pvbox.live:18912/5b593bbb00085133f733c0891e1414f6.ts
-CINEMAWORLD,p2p://fccsovh.pvbox.live:18912/5b1409770005ae3c49a1dc218e9088e2.ts
-SMART知识台,p2p://fccsovh.pvbox.live:18912/5b1408f20002579871acaeeb242803ac.ts
-HISTORY HD,p2p://fccsovh.pvbox.live:18912/5b1408f300071d3b6bc1eca52a95e91b.ts
-HISTORY2 HD,p2p://fccsovh.pvbox.live:18912/5b1408f3000402b2b347cadc76b8892b.ts
-HKS,p2p://fccsovh.pvbox.live:18912/5b14096a000c1de241abdf0cc5e4e223.ts
-NICK.JR,p2p://fccsovh.pvbox.live:18912/5b14098f000ba3b0429815912b3e6a25.ts
-ALJAZEERA,p2p://fccsovh.pvbox.live:18912/5b1409fc0002578390b829f43087c5d5.ts
-BOOMERANG,p2p://fccsovh.pvbox.live:18912/5b1409da0008112422174354e32b30be.ts
-MEZZO LIVEHD,p2p://fccsovh.pvbox.live:18912/5b14090b0006deffcf6c104464440735.ts
-TVN,p2p://fccsovh.pvbox.live:18912/5bdbf3a70003296c426373ce99df4f53.ts
-TVBS 精彩台,p2p://fccsovh.pvbox.live:18912/5bdbf3b20000e966d2177540400d0818.ts
-客家电视,p2p://fccsovh.pvbox.live:18912/5bdbf38e00051950137f0e95f1f56285.ts
-壹电视新闻台,p2p://fccsovh.pvbox.live:18912/5bdbf3a3000abb1b34e4631bd47a2f26.ts
-LUXE TV,p2p://fccsovh.pvbox.live:18912/5b1408f2000402a90779e81ba4dc710c.ts
-星卫电影HD,p2p://fccsovh.pvbox.live:18912/5bdbf3b90004478ac7fd8eda52b11719.ts
-博斯高球1DH,p2p://fccsovh.pvbox.live:18912/5bdbf395000ad5cbe7caac65e0985070.ts
-EVE,p2p://fccsovh.pvbox.live:18912/5bdbf3a000041d6ad2172fcb0dab6930.ts
-CINEMA WORLD,p2p://fccsovh.pvbox.live:18912/5bdbf3aa000b9c310eb01af3db41c039.ts
-原住民族电视,p2p://fccsovh.pvbox.live:18912/5bdbf387000760a744c6acbea9182077.ts
-GOOD TV ,p2p://fccsovh.pvbox.live:18912/5bdbf39200017a4bd216f86f7a511c7b.ts
-翡翠,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f7b26e4559ee943fb.ts
-翡翠,p2p://fccsovh.pvbox.live:18912/5d1220350000ba2736e444057d22cf40.ts
-无线新闻,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a8a070d55507015cde.ts
-无线新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-明珠,p2p://fccsovh.pvbox.live:18912/5b1409540009bb8b47e85b08eff39b64.ts
-香港卫视,p2p://fccsovh.pvbox.live:18912/香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8.ts
-无线功夫台,p2p://fccsovh.pvbox.live:18912/5b140a1600003212167115745c0c2fa6.ts
-HKC新闻,p2p://fccsovh.pvbox.live:18912/5b13f6f100047cdef116a580a70f5211.ts
-私人影院,p2p://fccsovh.pvbox.live:18912/5b140a98000c5ae6e39803149042892d.ts
-TVB星河频道,p2p://fccsovh.pvbox.live:18912/5b14092a000dc921148769cc37b0eda3.ts
-VIUTV6,p2p://fccsovh.pvbox.live:18912/5b1409fd000796837a6b338e06e9772e.ts
-VIU,p2p://fccsovh.pvbox.live:18912/5b14095400066519cdad8ecfbfecdad3.ts
-星空卫视,p2p://fccsovh.pvbox.live:18912/5b1409fb0000e985e0dadd1fac6eb449.ts
-凤凰中文台 HD,p2p://fccsovh.pvbox.live:18912/5b14092b0007595659e78a7f41c93371.ts
-凤凰资讯台 HD,p2p://fccsovh.pvbox.live:18912/5b14092b00090483915e396d73912595.ts
-凤凰香港台 HD,p2p://fccsovh.pvbox.live:18912/5b14092b000ab058f5793b2bedbc4151.ts
-海峡卫视,p2p://fccsovh.pvbox.live:18912/5b140a99000c97f5e3b2541e8326290d.ts
-莲花卫视,p2p://fccsovh.pvbox.live:18912/5b1409fb00088a4684232a11cf00fbd2.ts
-WBTV,p2p://fccsovh.pvbox.live:18912/5b140a1600043fc9ee60955d1964d8cd.ts
-CHINA MOVIE,p2p://fccsovh.pvbox.live:18912/5b14095e00097ea8efded760aceb7cd1.ts
-中华美食频道,p2p://fccsovh.pvbox.live:18912/5b14092b000126615dcd1972c7c19cee.ts
-TVBHD,p2p://fccsovh.pvbox.live:18912/5cf559f800003d1b2ebdb6e7a1ee7eb7.ts
-天映频道,p2p://fccsovh.pvbox.live:18912/5d650486000c7ef4d0d1d8bace36740c.ts
-天映经典,p2p://fccsovh.pvbox.live:18912/5d650488000e67a1c753428b7ed89570.ts
-DISNEY CHANNEL,p2p://fccsovh.pvbox.live:18912/5b593aed0000362178e744fc4c1c5fd9.ts
-DISNEY JR,p2p://fccsovh.pvbox.live:18912/5cf559e50008d20219d278b4a3f00a69.ts
-DISNEY JR(backup),p2p://fccsovh.pvbox.live:18912/5b593af10003ba928f3aa4c807289811.ts
-DISNEY XD,p2p://fccsovh.pvbox.live:18912/5b593af500034b9c71d8469eb2e70ed5.ts
-FOXSPORTS,p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856fa460f19c1ca869a.ts
-fox movie,p2p://fccsovh.pvbox.live:18912/5b3c4f9c00034146378f0fdd3ebc8c6a.ts
-HBO HD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c170c4d321395bcea.ts
-TVB 星河臺,p2p://fccsovh.pvbox.live:18912/5d65048c0003e9ae78efffe2259fe841.ts
-FOXSPORTS2,p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf375d45b0008f27d89.ts
-HBOCA,p2p://fccsovh.pvbox.live:18912/5cf559de000079ada45d301a8597588f.ts
-HBOCA2,p2p://fccsovh.pvbox.live:18912/5cffd799000ddb7629c67b6a50cd1360.ts
-Movie Network 1,p2p://fccsovh.pvbox.live:18912/5cffd5c70005b65a0db34d3e4370b3fe.ts
-NBA Canada,p2p://fccsovh.pvbox.live:18912/5cffd5d4000b327e392da71b05d96f96.ts
-Family,p2p://fccsovh.pvbox.live:18912/5cffd5e200012f5b23470bdb5681ce5b.ts
-KBS World,p2p://fccsovh.pvbox.live:18912/5e0484590006d2daf534e4a83f356ea3.ts
-HBO Hits HD,p2p://fccsovh.pvbox.live:18912/5e04845a000adfd0f534e9997b2944a9.ts
-HBO Signature HD,p2p://fccsovh.pvbox.live:18912/5e04845d000c11bbd7c2e28732a4d0b6.ts
-HBO Family HD,p2p://fccsovh.pvbox.live:18912/5e04845f00006322f4acbe1b45795f81.ts
-Fox Movies Premium,p2p://fccsovh.pvbox.live:18912/5e048461000659083e07ee59f3c6c776.ts
-Fox HD,p2p://fccsovh.pvbox.live:18912/5e04846300020dc88ba48fb2e0f3c922.ts
-Fox Family HD,p2p://fccsovh.pvbox.live:18912/5e0484640001945b5060a924285020d7.ts
-Discovery BR,p2p://fccsovh.pvbox.live:18912/5bee4e830000792b19ca359942847fe8.ts
-Discovery Civilization,p2p://fccsovh.pvbox.live:18912/5bee4e860006918a19ca42d74e5c2169.ts
-Discovery Home Health,p2p://fccsovh.pvbox.live:18912/5bee4e89000e17d319ca50831e4746cf.ts
-Discovery Kids,p2p://fccsovh.pvbox.live:18912/5bee4e8d000586a619ca5df12c78027d.ts
-Discovery Science BR,p2p://fccsovh.pvbox.live:18912/5bee4e90000c4e2119ca6b6e513a3de2.ts
-Discovery Theater,p2p://fccsovh.pvbox.live:18912/5bee4e9400035d9f19ca78bc246f50ff.ts
-Discovery Turbo,p2p://fccsovh.pvbox.live:18912/5bee4e97000ce6c919ca86e56c7d0761.ts
-Discovery WORLD,p2p://fccsovh.pvbox.live:18912/5bee4e9b0004056f19ca944341e3368d.ts
-Disney BR,p2p://fccsovh.pvbox.live:18912/5bee4e9e000ba64919caa1ef52c43b23.ts
-DISNEY JR BR,p2p://fccsovh.pvbox.live:18912/5bee4ea20003335f19caaf5d34b301d0.ts
-Disney XD BR,p2p://fccsovh.pvbox.live:18912/5bee4ea50009f36c19cabcda2ac3795d.ts
-ESPN Extra,p2p://fccsovh.pvbox.live:18912/5bee4eac000a346c19cad841707b1f33.ts
-ESPN BRASIL,p2p://fccsovh.pvbox.live:18912/5bee4faf000825f219cecb6d38e404f3.ts
-WOOHOO,p2p://fccsovh.pvbox.live:18912/5bee4fb60008c9ee19cee6f4655d66c0.ts
-ESPN,p2p://fccsovh.pvbox.live:18912/5bee4fba00023f4e19cef4de78f24c6c.ts
-PFC,p2p://fccsovh.pvbox.live:18912/5bee50530008483919d14c1c7a0361ad.ts
-VIVA BR,p2p://fccsovh.pvbox.live:18912/5bee4fc100035d9019cf1084609e2987.ts
-TV Record,p2p://fccsovh.pvbox.live:18912/5bee4fc4000a197f19cf1df21ad91026.ts
-Food Network BR,p2p://fccsovh.pvbox.live:18912/5bee4fc80000e7f719cf2b40179f2fb7.ts
-Fox Permium 1,p2p://fccsovh.pvbox.live:18912/5bee4fd30003b52119cf56e41e8c303e.ts
-Fox Premium 2,p2p://fccsovh.pvbox.live:18912/5bee4fd6000b562119cf649063667a0b.ts
-Fox Sports 2 BR,p2p://fccsovh.pvbox.live:18912/5bee4fda00069ce519cf7307464e201e.ts
-Fox Sports 1,p2p://fccsovh.pvbox.live:18912/5bee4fe10005de6619cf8e21326c4d8c.ts
-FX BR,p2p://fccsovh.pvbox.live:18912/5bee4fe4000da18119cf9bdc77751126.ts
-HBO Family BR,p2p://fccsovh.pvbox.live:18912/5bee505700010a7419d159d834a86fcf.ts
-HBO BR,p2p://fccsovh.pvbox.live:18912/5bee505a0007dda519d1675558a62e43.ts
-HBO Plus BR,p2p://fccsovh.pvbox.live:18912/5bee505e0000389219d1750142d03c34.ts
-HBO Signature BR,p2p://fccsovh.pvbox.live:18912/5bee50610008e86919d182ec31824dc6.ts
-History BR,p2p://fccsovh.pvbox.live:18912/5bee50650000aeec19d1907829542060.ts
-Sport TV 1,p2p://fccsovh.pvbox.live:18912/5bee55c3000c7bf119e68aa6503576af.ts
-Sport TV 2,p2p://fccsovh.pvbox.live:18912/5bee55ca000c3ec619e6a5ee033d0078.ts
-Sport TV 3,p2p://fccsovh.pvbox.live:18912/5bee55ce0007003119e6b43778d52096.ts
-Sport TV 5,p2p://fccsovh.pvbox.live:18912/5bee55d50005232619e6cf1258b23e37.ts
-Sport TV +,p2p://fccsovh.pvbox.live:18912/5bee55d8000d870519e6dcfc6c3d41d3.ts
-Sporting TV,p2p://fccsovh.pvbox.live:18912/5bee55e300077df919e7065e03c605cf.ts
-AXN 新力影业动作片电视网,p2p://fccsovh.pvbox.live:18912/5b140922000388777bb32b1976c6ed6e.ts
-BABYFIRST,p2p://fccsovh.pvbox.live:18912/5b1409da00016387e11c612c7222c190.ts
-BABY TV 英语,p2p://fccsovh.pvbox.live:18912/5b14094000047cc69f43010ffe2aba98.ts
-BBC HD,p2p://fccsovh.pvbox.live:18912/5b140953000257fb5af59feaf00b7a6c.ts
-BBC LIFESTYLE 生活频道 HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
-DISCOVERY HD,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0ed640b773543624a.ts
-FOX CRIME HD,p2p://fccsovh.pvbox.live:18912/5b14098e000e434e8cf404bafd4e6a24.ts
-FOX优质,p2p://fccsovh.pvbox.live:18912/5b140977000ab01d13f89dada038963b.ts
-FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d684ec8ac4fa561e17.ts
-FOX 家庭影院HD,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca302f727ea8fb34f5.ts
-FX 福克斯影视 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47e5c80e7fffcbc653.ts
-SKY SPORTS-2 HD,p2p://fccsovh.pvbox.live:18912/5b1409230003891317d14cef0aad7ca1.ts
-SKY SPORTS-1 HD,p2p://fccsovh.pvbox.live:18912/5b14090d00030e9404a1fec65f99017d.ts
-MEZZO LIVE HD,p2p://fccsovh.pvbox.live:18912/5b14090b0006deffcf6c104464440735.ts
-SKY SPORTS5,p2p://fccsovh.pvbox.live:18912/5b140a140002d25a17d4fa285c614ca2.ts
-SUNDANCE CHANNEL,p2p://fccsovh.pvbox.live:18912/5b1408f2000c5b2ddea340dcff4b000b.ts
-TV5,p2p://fccsovh.pvbox.live:18912/5b1409220005714cf91c82a47f2be10c.ts
-亚洲美食 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000c9801f2b123a3aa339358.ts
-今日俄罗斯,p2p://fccsovh.pvbox.live:18912/5b1409fc00006f1fc08cd16b0d3a6538.ts
-SKYNET-SPORTS1,p2p://fccsovh.pvbox.live:18912/5d6b7539000d60f9350178dcdfe4e035.ts
-SKYNET-SPORTS2（备）,p2p://fccsovh.pvbox.live:18912/5d6b75370007a82af7b641ed03f01229.ts
-SKYNET-SPORTS2,p2p://fccsovh.pvbox.live:18912/5d6b753d00022c9c57e3d98b154091d2.ts
-SKYNET-SPORTS3,p2p://fccsovh.pvbox.live:18912/5d6b753e0009536f094efa9f216a7f15.ts
-SKYNET-SPORTS4,p2p://fccsovh.pvbox.live:18912/5d6b754000039abf26c414c003d4641b.ts
-SKYNET-SPORTS5,p2p://fccsovh.pvbox.live:18912/5d6b7542000081abd40b29b47a445569.ts
-SKYNET-SPORTS6,p2p://fccsovh.pvbox.live:18912/5d6b7548000caa9d24acc8f8da071de0.ts
-SKYNET-SPORTS+,p2p://fccsovh.pvbox.live:18912/5d6b754a00063a64f7b68bc75fa92215.ts
-SKYNET-SPORTS-HD,p2p://fccsovh.pvbox.live:18912/5d6b754c0000446903439ed90ba5b8d5.ts
-SportNet One,p2p://fccsovh.pvbox.live:18912/5cffd5cf000a3eab078aa26498e9075e.ts
-纬来体育,p2p://fccsovh.pvbox.live:18912/5b140921000be1449c98b31f71ca342b.ts
-FOXSPORT HD,p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856fa460f19c1ca869a.ts
-FOXSPORT2,p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf375d45b0008f27d89.ts
-博斯运动,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc9237287c99d3f3fb017.ts
-TSN1,p2p://fccsovh.pvbox.live:18912/5cf55a00000f055200cbde102a1f6bb9.ts
-TSN2,p2p://fccsovh.pvbox.live:18912/5cffd792000e927a29c66041424e5220.ts
-TSN3,p2p://fccsovh.pvbox.live:18912/5cffd7940009905b29c666c80f1c3c18.ts
-TSN4,p2p://fccsovh.pvbox.live:18912/5cffd7960007e5d529c66e2b73982d18.ts
-TSN5,p2p://fccsovh.pvbox.live:18912/5cffd798000451f529c6751156f32d26.ts
-SportNet Ontario,p2p://fccsovh.pvbox.live:18912/5cffd5cd000ca041184ef8f90a7cafa0.ts
-SportNet World,p2p://fccsovh.pvbox.live:18912/5cffd5d10003ce25aae653b90d0e1721.ts
-SportNet 360,p2p://fccsovh.pvbox.live:18912/5cffd5d2000e8986df300ca6254ad9a9.ts
-CBS SPORTS,p2p://fccsovh.pvbox.live:18912/5cf559f0000c286a00cb9ed42a1547b3.ts
-FOX-Sports1,p2p://fccsovh.pvbox.live:18912/5b593b18000901103d17b367f942aa2c.ts
-FOX-Sports2,p2p://fccsovh.pvbox.live:18912/5b593b1c00097e8b10a9b688974ff940.ts
-博斯无限,p2p://fccsovh.pvbox.live:18912/5b14098f0001271399caf5e03c732dff.ts
-博斯网球 HD,p2p://fccsovh.pvbox.live:18912/5b14098f0009bb6e01a01bc4d4d4a168.ts
-博斯高球1 DH,p2p://fccsovh.pvbox.live:18912/5bdbf395000ad5cbe7caac65e0985070.ts
-博斯高球Ⅱ HD,p2p://fccsovh.pvbox.live:18912/5b1409dc00088a66446ae31228d738b2.ts
-ELTA体育3,p2p://fccsovh.pvbox.live:18912/5b25fc8c00046f1287df6a9111df617a.ts
-ELTA体育 HD,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fca7a40dfec6ae609.ts
-FOX SPORTS 3,p2p://fccsovh.pvbox.live:18912/5bee539c00018092cebb9a907af2692c.ts
-Space,p2p://fccsovh.pvbox.live:18912/5cffd7a8000e552429c6b62101c45bdb.ts
-BBC LIFESTYLE HD,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdaf3ac58dff31c53a.ts
-TVBS,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
-TVBS新闻,p2p://fccsovh.pvbox.live:18912/5b1409600008c73b4d395c4b8c512663.ts
-三立新闻,p2p://fccsovh.pvbox.live:18912/5b14090b000e80305b8d32e224e181e9.ts
-东森新闻,p2p://fccsovh.pvbox.live:18912/5b1409520005add413b4f02227e5270d.ts
-中天新闻,p2p://fccsovh.pvbox.live:18912/5b14096a000dc917f52efaf319558cad.ts
-中视新闻台,p2p://fccsovh.pvbox.live:18912/5b14095e000f3774d079e8312ab51b46.ts
-互动新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355e58ad23d7d664a21b.ts
-台视新闻台,p2p://fccsovh.pvbox.live:18912/5b14090b0004b9da0766bb6b057b35a6.ts
-寰宇新闻频道,p2p://fccsovh.pvbox.live:18912/5b1408f30005adecf30d9563955b54ce.ts
-年代新闻,p2p://fccsovh.pvbox.live:18912/5b1409fd000a7269b63a290569e8fd0c.ts
-东森财经,p2p://fccsovh.pvbox.live:18912/5b1409f30008c7763c1d409c9d274c77.ts
-非凡新闻,p2p://fccsovh.pvbox.live:18912/5b14092c0001a04c8d187ac61152fe54.ts
-FOX新闻,p2p://fccsovh.pvbox.live:18912/5b25fce60007c58e5e9c8093abbf5604.ts
-CCTV-6 电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f9391bd99f814e6a052.ts
-好莱坞电影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df52b0d3ac35af1134c.ts
-星卫电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a1017446513068ca3.ts
-东森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad122881d3a37581383.ts
-东森电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe23a77313125ba9210.ts
-伟来电影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5bf25650fc689b042b.ts
-美亚电影台 HD,p2p://fccsovh.pvbox.live:18912/5b14098f0007961520b5ac8a74cbb688.ts
-卫视中文,p2p://fccsovh.pvbox.live:18912/5b14096a00006f076282fa019e12a609.ts
-卫视合家欢,p2p://fccsovh.pvbox.live:18912/5b14096a0001dd41ae3b0049870703a0.ts
-卫视西片 HD,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea43c4eec53accc7f78.ts
-卫视电影,p2p://fccsovh.pvbox.live:18912/5b140960000aafcc1dfb0181eeb1ca06.ts
-龙华洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b18cc343dccffbc94.ts
-CN 卡通,p2p://fccsovh.pvbox.live:18912/5b140917000efaac8b9dc0bc37cc52ce.ts
-DISNEY???,p2p://fccsovh.pvbox.live:18912/5b140a0c0002578aebcc7a9e194b5ea4.ts
-MOMO亲子台,p2p://fccsovh.pvbox.live:18912/5b1409690009f8b0be25dd6647e9ec4f.ts
-东森呦呦,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28c40971d986c7cd82.ts
-纬来育乐,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5678844643960b2c2.ts
-靖天卡通台,p2p://fccsovh.pvbox.live:18912/5b14093e0009fa213ee23ca7907c23ef.ts
-靖天育乐台,p2p://fccsovh.pvbox.live:18912/5b1408f2000e063f468cb824a3310b33.ts
-龙华动画 HD,p2p://fccsovh.pvbox.live:18912/5b1409170002d1e2a66e2b6a27dc029d.ts
-BABY TV 国语,p2p://fccsovh.pvbox.live:18912/5b14090b00030e8253e9f0539482a3fc.ts
-ANIMAX,p2p://fccsovh.pvbox.live:18912/5b14095f000b75eb9efd9bf79a382056.ts
-DISNEY-JR(backup),p2p://fccsovh.pvbox.live:18912/5b593af10003ba928f3aa4c807289811.ts
-Disney XD,p2p://fccsovh.pvbox.live:18912/5cffd5e200012f5b23470bdb5681ce5b.ts
-DISNEY-XD(backup),p2p://fccsovh.pvbox.live:18912/5b593af500034b9c71d8469eb2e70ed5.ts
-曼迪日本台,p2p://fccsovh.pvbox.live:18912/5b1408f1000aeceeb987c2387a72610d.ts
+TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+HKS卫视 高清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+TVB财经台,http://prdsecurelive.ainemo.com/live/225cjcj.flv
+有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
+有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
+凤凰卫视资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰卫视中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+凤凰卫视中文台,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv
+TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
+TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
+TVB明珠台,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9#P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
+TVB無線新聞台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+TVB無線財經台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
+TVB星河台,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+TVB武術台,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
+VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
+VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
+VIU TV6HD,P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
+VIU TV6HD,P2p://sdgdklwos.finetv.tv:9906/5ad32bae0001dd1049ed9be114c818f0
+RTHK31HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
+RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
+香港開電視,P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07
+香港開電視,P2p://sdgdklwos.finetv.tv:9906/5acb61a30004069d2b801ab951492f07
+星空衛視,P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
+民 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd230300046dc8029d402053e02fbf
+中 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd06ac000555a7022e8c862ebc1019
+華 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd068a0005f99e022e07d55c2f581d
+台 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd099c00008ebf023a04ce64d57ff4
+公 視HD,P2p://sdgdklwos.finetv.tv:9906/59fd0656000e66cd022d3ee840ad175d
+公 視3HD,P2p://sdgdklwos.finetv.tv:9906/5ac5da01000d09fc15e6046427920804
+壹 新 聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+壹 綜 合HD,P2p://sdgdklwos.finetv.tv:9906/59fd06f600087a21022fae61787f061c
+東森幼幼HD,P2p://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
+東森電影HD,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
+東森戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd17a500022c250270d8533c186ce9
+東森洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd17860002b83302705f6a03a560d2
+東森綜合HD,P2p://sdgdklwos.finetv.tv:9906/5a141ade0007bc435f8dff2d5b3453d7
+東森新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
+東森財經HD,P2p://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
+中視經典台,P2p://sdgdklwos.finetv.tv:9906/59fd09bd0002ab6d023a86337415321a
+中視新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd2282000219b8029b479b6fc21d86
+三立戲劇台,P2p://sdgdklwos.finetv.tv:9906/59fd274c0001400d02adfc6d23452c25
+三立綜合台,P2p://sdgdklwos.finetv.tv:9906/59fd27240003732f02ad60c95d8e10a7
+三立新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08fd000707490237995b3c9f2775
+三立都會台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1
+三立台灣台HD,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4
+中天亞洲台,P2p://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
+中天新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
+中天新聞HD,P2p://sdgdklwos.finetv.tv:9906/5acb650d0006707f2b8d716537d413a9
+中天綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
+中天娛樂HD,P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
+八大第1台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22540006fb57029a95244a947e57
+八大綜合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
+八大戲劇台HD,P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
+八大娛樂台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
+阿里郎電視,P2p://sdgdklwos.finetv.tv:9906/59fd303f000e8d8702d0f510645c2ff4
+寰宇財經台,P2p://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
+寰宇綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
+非凡商業台,P2p://sdgdklwos.finetv.tv:9906/5b07a59b0005c8ff766a65e653565438
+非凡新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd05f30007004f022bba4b77671d93
+台視新聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd299b00054a3002b7020e67d657e3
+年代新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a56230e0004af51617ff5935a3e292e
+亞洲新聞HD,P2p://sdgdklwos.finetv.tv:9906/5a56d833000e41286443908c2a501e55
+民視新聞台HD,P2p://sdgdklwos.finetv.tv:9906/59fd05930008403b022a439a3b9b7401
+民視台灣台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0670000decc5022da459628c3d1a
+華視教育體育HD,P2p://sdgdklwos.finetv.tv:9906/59fd23240005c9a4029dc1561885012e
+龍華動畫HD,P2p://sdgdklwos.finetv.tv:9906/59fd26690002a01402aa86134bf26468
+龍華洋片HD,P2p://sdgdklwos.finetv.tv:9906/59fd07650001a79102315e34781149f3
+龍華偶像HD,P2p://sdgdklwos.finetv.tv:9906/59fd38a1000ca5a002f1b363682d5b70
+龍華戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd38840006b53d02f14094613f7615
+龍華影劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd30d6000988d702d341a0202638f5
+龍華經典HD,P2p://sdgdklwos.finetv.tv:9906/59fd3363000e740302dd39b062856e0b
+龍華電影HD,P2p://sdgdklwos.finetv.tv:9906/5acb86bc0005dc212c1104ce762f31f7
+緯來育樂HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ad000978f002ab917848d22993
+緯來綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd206e00099d6f02932b6078c86d9a
+緯來戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd20190002fb090291ddb256d73759
+緯來電影HD,P2p://sdgdklwos.finetv.tv:9906/59fd1feb0003d7be02912a31740004af
+緯來日本HD,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
+緯來體育HD,P2p://sdgdklwos.finetv.tv:9906/5a141bab0009ca9c5f91208265721808
+緯來精彩HD,P2p://sdgdklwos.finetv.tv:9906/5ac5d68600012bae15d868ee776c7fe2
+大爱電視HD,P2p://sdgdklwos.finetv.tv:9906/59fd173e0004273a026f46886dde4613
+信大電視HD,P2p://sdgdklwos.finetv.tv:9906/5afbd0d7000dfbc54833015a3ca55f37
+好消息二台,P2p://sdgdklwos.finetv.tv:9906/59fcf6310003171001ee2b72507f276b
+曼迪日本台,P2p://sdgdklwos.finetv.tv:9906/59fd3343000561bb02dcba5e474715ac
+迪士尼頻道,P2p://sdgdklwos.finetv.tv:9906/59fd1766000a51cc026fe44f425c5788
+采昌影劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd15cc000cd7cc0269a36a466420ca
+日舞電影HD,P2p://sdgdklwos.finetv.tv:9906/59fd30960001991702d2459c74bd52f1
+華納電視HD,P2p://sdgdklwos.finetv.tv:9906/5a321796000072dfd4b2057134a263e5
+罪案偵緝HD,P2p://sdgdklwos.finetv.tv:9906/59fd2824000df04802b14b7973731f54
+世界影城HD,P2p://sdgdklwos.finetv.tv:9906/59fd29d600014b6302b7e78c36d43070
+靖天國際台HD,P2p://sdgdklwos.finetv.tv:9906/59fd32c800056a3402dad9e646096d29
+靖天日本台HD,P2p://sdgdklwos.finetv.tv:9906/59fd2893000bff8802b2fc847a9852a6
+靖天戲劇台HD,P2p://sdgdklwos.finetv.tv:9906/59fd36f80009b75202eb367f603a273f
+靖天電影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd358c00069b9502e5a7d404d940d2
+靖天映畫台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3565000a788d02e5107642590dce
+靖天卡通台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38e0000de06a02f2a9c951a975a6
+靖天育樂台HD,P2p://sdgdklwos.finetv.tv:9906/59fd3068000ea26902d195477bc86f19
+靖洋戲劇台HD,P2p://sdgdklwos.finetv.tv:9906/59fd259600089bb202a74f6123416e8d
+鸿基影劇台,P2p://sdgdklwos.finetv.tv:9906/59fd2a8b000cb57f02baad731b97024c
+佛衛慈悲台,P2p://sdgdklwos.finetv.tv:9906/59fd2a4f00097fcf02b9c2482e3e76cf
+亞洲旅遊台,P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
+亞洲美食HD,P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
+美食星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd07190004a07d0230361f798d3b15
+動物星球HD,P2p://sdgdklwos.finetv.tv:9906/59fd254500042de102a611e03cd83fa7
+高清探索HD,P2p://sdgdklwos.finetv.tv:9906/5acb89750000af6a2c1ba62e06531ad6
+探索亞洲HD,P2p://sdgdklwos.finetv.tv:9906/59fd15f7000e7852026a4bd030284bc8
+探索頻道HD,P2p://sdgdklwos.finetv.tv:9906/59fcf587000c4fc201eb95c324ea0953
+探索科學HD,P2p://sdgdklwos.finetv.tv:9906/59fd166e000c7533026c1c1b4bf23d6b
+探索夏娃HD,P2p://sdgdklwos.finetv.tv:9906/59fd286b000e1cdb02b260d1385f3d28
+探索動力HD,P2p://sdgdklwos.finetv.tv:9906/59fd2846000cb99902b1cffa3bb33abb
+國家地理HD,P2p://sdgdklwos.finetv.tv:9906/59fd16240000683c026af7fe2edc67eb
+地理野生HD,P2p://sdgdklwos.finetv.tv:9906/59fd082b000c6ca7023466633fed4c93
+地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
+历史頻道1HD,P2p://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
+历史頻道2HD,P2p://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
+MTV HD,P2p://sdgdklwos.finetv.tv:9906/59fd38c4000c84ed02f23c1b626a19ac
+AXN HD,P2p://sdgdklwos.finetv.tv:9906/59fd2573000c0b9e02a6c794631510c8
+HBO HD,P2p://sdgdklwos.finetv.tv:9906/59fd1566000391610268129978510d8e
+HBO温馨家庭,P2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b
+HBO原創巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5
+HBO強檔巨獻,P2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126
+FX HD,P2p://sdgdklwos.finetv.tv:9906/59fd279b000c06e702af33d47d4c770a
+FOX HD,P2p://sdgdklwos.finetv.tv:9906/59fd14cf000321f60265c4a24ca93407
+FOX優質電影,P2p://sdgdklwos.finetv.tv:9906/59fd246a0009125502a2bba01b0f4bf5
+FOX家庭影院,P2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213
+FOX動作電影,P2p://sdgdklwos.finetv.tv:9906/59fd244900002be402a238767364317b
+FOX警匪電影,P2p://sdgdklwos.finetv.tv:9906/59fd14ae0007a794026544e32f606291
+ELTA綜合HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ca00086abe02ac0272796720c5
+ELTA影劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd07e7000727bb02335b6b31754db5
+ELTA體育1台,P2p://sdgdklwos.finetv.tv:9906/59fd07ba000a4d260232ac6f507c5a84
+ELTA體育2台,P2p://sdgdklwos.finetv.tv:9906/59fd37f9000df20002ef2381617811bf
+TVBS HD,P2p://sdgdklwos.finetv.tv:9906/59fd20d3000f24fd0294b75f4a555e2a
+TVBS新聞台HD,P2p://sdgdklwos.finetv.tv:9906/59fd096d0003aa9702394e013b6206a2
+TVBS歡樂台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20ae000635720294248563346fd6
+TVBS精采台HD,P2p://sdgdklwos.finetv.tv:9906/59fd250f000aa01602a54096673b0f2a
+EYETV戲劇HD,P2p://sdgdklwos.finetv.tv:9906/59fd35bd00061f9e02e6671d60d7011c
+EYETV旅遊HD,P2p://sdgdklwos.finetv.tv:9906/59fd27c4000cb3b102afd41b5cc4003d
+JET綜合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd054a00006c030229246e6fa27a75
+MOMO親子台,P2p://sdgdklwos.finetv.tv:9906/5a3b9d400006e7bcf9e47334508c3038
+ASTRO AEC,P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72
+ASTRO小太阳,P2p://sdgdklwos.finetv.tv:9906/5b04f9b200072af66bfae01c7c8f7421
+ASTRO華麗台,P2p://sdgdklwos.finetv.tv:9906/5b04f9000000c2aa6bf8272669213c39
+ASTRO歡喜台,P2p://sdgdklwos.finetv.tv:9906/5b04f9f5000224816bfbe48c31ca641f
+CATCHPLAY電影台,P2p://sdgdklwos.finetv.tv:9906/59fd26e9000849d802ac7b8a43f34f6a
+FYI HD,P2p://sdgdklwos.finetv.tv:9906/59fd32500009ea1902d9064f0d2c0edc
+BBC HD,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
+TVN HD,P2p://sdgdklwos.finetv.tv:9906/59fd248e000a1aa502a3488f618b6de7
+NBA HD,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
+CNN HD,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
+LUXE.TV,P2p://sdgdklwos.finetv.tv:9906/59fd32780006da1202d9a1c415a55c7e
+MY KIDS,P2p://sdgdklwos.finetv.tv:9906/59fd3515000d559a02e3d8b272784315
+DIVA HD,P2p://sdgdklwos.finetv.tv:9906/59fd33b00000188702de62ce5428150a
+SMART HD,P2p://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
+OUTDOOR,P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
+TEAVEL HD,P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
+BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+NHK WORLD,P2p://sdgdklwos.finetv.tv:9906/59fd0a09000c3214023bb18461b51f7a
+CHANNEL[5],P2p://sdgdklwos.finetv.tv:9906/5a31fbf500092568d4461abc4b040214
+CHANNEL[8],P2p://sdgdklwos.finetv.tv:9906/5a31fc3f000ef04fd4473d4355630850
+CHANNEL[U],P2p://sdgdklwos.finetv.tv:9906/5a31fc73000836bdd44806ad15337fe5
+MTV LIVE HD,P2p://sdgdklwos.finetv.tv:9906/59fd338800019be502ddc6ec066c3089
+BBC LIFESTYLE,P2p://sdgdklwos.finetv.tv:9906/59fd320000071ba102d7cd137e585878
+MEZZO LIVEHD,P2p://sdgdklwos.finetv.tv:9906/59fd297e00073d5c02b691533fb45133
+FOX SPORTS3HD,P2p://sdgdklwos.finetv.tv:9906/59fd0ab7000ca0d6023e595351427583
+ELEVEN SPORTS+,P2p://sdgdklwos.finetv.tv:9906/59fd23c0000c1e7f02a0245c6964058b
+E!ENTERTAINMENT,P2p://sdgdklwos.finetv.tv:9906/59fd29f4000d9cec02b85fd97aba3e4f
+博斯無限HD,P2p://sdgdklwos.finetv.tv:9906/59fd149100031ddf0264d2721a4e5126
+博斯網球HD,P2p://sdgdklwos.finetv.tv:9906/59fd0790000c3d34023208dc252633c0
+博斯高球1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf4c90006ba2c01e8ae1c1ec827ca
+博斯高球2HD,P2p://sdgdklwos.finetv.tv:9906/59fd073b0000c2280230b9e6743b0ab3
+博斯運動1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
+博斯運動2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
+美国宇航局频道,http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+SMART HD,P2p://sdgdklwos.finetv.tv:9906/59fd32970005fa4002da1a9d12c87a7d
+OUTDOOR,P2p://sdgdklwos.finetv.tv:9906/59fd15a600029d6902690c5b552d077d
+TEAVEL HD,P2p://sdgdklwos.finetv.tv:9906/59fd0b9100084afb0241abca38654efa
+BBC EARTH,P2p://sdgdklwos.finetv.tv:9906/59fd3223000ee20302d857cf1a981663
+
