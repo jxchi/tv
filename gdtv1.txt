@@ -778,6 +778,40 @@ X战警系列,http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001
 
 
 爱奇艺,#genre#
+黑帮电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+电影大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
+热播电视剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+家庭剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
+宫廷正剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
+经典重温,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+收视冠军,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+湖南卫视,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_songzhongji_1080p_t10/c20_lb_songzhongji_1080p_t10.m3u8
+东方卫视,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jiayouernv_1080p_t10/c16_lb_jiayouernv_1080p_t10.m3u8
+名侦探柯南,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
+喜剧大咖,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
+相声小品,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
+动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+大头儿子,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
+喜羊羊,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
+哆啦A梦,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
+儿歌大全,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
+神探狄仁杰,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
+纪晓岚,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_jixiaolan_1080p_t10/c16_lb_jixiaolan_1080p_t10.m3u8
+人民的名义,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
+小说改编,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiaoshuogaibian_1080p_t10/c15_lb_xiaoshuogaibian_1080p_t10.m3u8
+好莱坞大片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+老年剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
+怀旧剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+喜剧电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+情感调解,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1080p_t10/c15_lb_qinggantiaojie_1080p_t10.m3u8
+历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+奇妙世界,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qimiaoshijie_1080p_t10/c16_lb_qimiaoshijie_1080p_t10.m3u8
+科学探索,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
+军事观察,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
 华数时装超清,http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
 华数高清时尚,http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
 华数时装2HD,http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
@@ -1041,6 +1075,96 @@ HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 靖天映画,http://61.58.60.230:9319/live/244.m3u8
+
+翡翠台,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27b8eae78932985aba
+翡翠台,p2p://fccsovh.pvbox.live:18912/5b1409fc00088a7f17d160f9f69bd971
+无线新闻,p2p://fccsovh.pvbox.live:18912/5b1409fc000a355eacd19b607afdd7bb
+无线新闻,p2p://fccsovh.pvbox.live:18912/5b140953000cd4a84cef51b991f16951
+1-J2,p2p://fccsovh.pvbox.live:18912/5b1409fc000dca06f338c94e1f9ae396
+2-J2,p2p://fccseuro.pvbox.live:18912/5d122036000a06612becfa24a1e7fef8
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf57894da23ecd65ae7
+明珠,p2p://fccsovh.pvbox.live:18912/5b1409540009bb8bb90a902a2ab9a775
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501611136e06133e0b65
+HKC新闻,p2p://fccseuro.pvbox.live:18912/5b13f6f100047cdef5f73c9021bbafe5
+HKC电影一台,p2p://fccseuro.pvbox.live:18912/5b140a1600025764b664ccfb85cd7a2f
+私人影院,p2p://fccseuro.pvbox.live:18912/5b140a98000c5ae61774bcda4342023a
+TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9ae7b40aa09266e5a98
+VIUTV6,p2p://fccseuro.pvbox.live:18912/5b1409fd00079683ced9f914ba48cf7b
+VIU,p2p://fccseuro.pvbox.live:18912/5b1409540006651913b788efa4b0bfc2
+星空卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb0000e98504183cbf83f5ecb7
+凤凰中文台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000759565f9045e8e93f40d9
+凤凰资讯台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b00090483fcd275c598459685
+凤凰香港台 HD,p2p://fccseuro.pvbox.live:18912/5b14092b000ab058d6b5acbba136b274
+海峡卫视,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5437f3d56ea9e3e6a
+莲花卫视,p2p://fccseuro.pvbox.live:18912/5b1409fb00088a46ff3ccdb540cf30be
+WBTV,p2p://fccseuro.pvbox.live:18912/5b140a1600043fc98621ae1605673b4c
+CHINA MOVIE,p2p://fccseuro.pvbox.live:18912/5b14095e00097ea86012bebee6992c48
+中华美食频道,p2p://fccseuro.pvbox.live:18912/5b14092b0001266158bc13346a455d66
+NOW 新闻,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df972287f2c4ad21d36
+NOW SPORTS1,p2p://fccseuro.pvbox.live:18912/5e7c6d93000c7d74ce7bb9fa5b3a1f52
+RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c4d3889e287702c472
+RTHK32,p2p://fccseuro.pvbox.live:18912/5badd3910003a73d3d7ddbff1e46042f
+BEIN SPORTS,p2p://fccsovh.pvbox.live:18912/5cf559ed000079fb1e4ae50e0235ae29
+WWE,p2p://fccsovh.pvbox.live:18912/5cffd5d900072496bd484aed0ac70a49
+TVB US 1,p2p://fccsovh.pvbox.live:18912/5cffd79b00082246f8826d560f7755d1
+TVB US 2,p2p://fccsovh.pvbox.live:18912/5cffd79d0004cbb6308335c986bee7c4
+TVBHD,p2p://fccsovh.pvbox.live:18912/5cf559f800003d1bbf7b3ce09833eab3
+BBC EARTH HD,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8b6cc51b58a909b21d
+国家地理野生,p2p://fccsovh.pvbox.live:18912/5b1409170007d3425483e43667e4ec9e
+国家地理HD,p2p://fccsovh.pvbox.live:18912/5b13f6f0000e0621bf58b36ce13a73f8
+CN卡通HD,p2p://fccsovh.pvbox.live:18912/5b593933000710c5ff83fd172e2f71cd
+TLC,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2eff5a50217fb4c90cb
+动物星球,p2p://fccsovh.pvbox.live:18912/5b14096100006f33b7ad4acd142376d0
+迪士尼卡通,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ec5d94dc54b11c2243
+CN卡通,p2p://fccsovh.pvbox.live:18912/5b140917000efaac7bb238aeded77a27
+东森呦呦,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28863896edadb3bb29
+東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3195eae88b9f6dbbb1e
+中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b0d3c062f0001a7f0
+民視新聞,p2p://fccsovh.pvbox.live:18912/5b1409690004f73317809a57b92fef7e
+三立新聞,p2p://fccsovh.pvbox.live:18912/5b14090b000e80302dd34cd414ace4f4
+TVBS新闻,p2p://fccsovh.pvbox.live:18912/5c2dd76300095ef46c3d121d86c6c64d
+TVBS综合,p2p://fccsovh.pvbox.live:18912/5b140960000c982b09d5b70e1204181c
+東森財經,p2p://fccseuro.pvbox.live:18912/5b1409f30008c776fad31aa6ee5bffb4
+非凡新聞,p2p://fccsovh.pvbox.live:18912/5c2dd766000ecf4a73bc1d2e4e7b7889
+非凡商业HD,p2p://fccsovh.pvbox.live:18912/5b140a9a0001dd5b2f1822466ac9d7b4
+衛視電影,p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca6148eeac994598e4f69
+東森電影,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe2ce907d06419bfbb1
+偉來電影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b80f75231bc541892
+HBO,p2p://fccsovh.pvbox.live:18912/5b140969000be13cf1cd8ec6a036e885
+東森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad11c51db83ecd92bdc
+好萊塢電影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df5ce8c7e9b2910c4d2
+衛視洋片HD,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea487bb26a1d15d9ad2
+CINEMAX,p2p://fccsovh.pvbox.live:18912/5b14096000043ff92a21112cfd6455e1
+FOX SPORTS HD,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856a8ee9cb19dfe1534
+FOX SPORTS 2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf3241798363283191d
+緯來體育,p2p://fccsovh.pvbox.live:18912/5b140921000be144cd180b5f57b33868
+緯來育樂,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b55c0ca4700449e07c
+偉來日本,p2p://fccsovh.pvbox.live:18912/5b14092b000efa4c4200a0db8cd88c4b
+國興衛視,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd788f8400f78f4e771b
+Z頻道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a5644b6c011563aa279
+CATCHPLAY HD,p2p://fccsovh.pvbox.live:18912/5b1409db000126a93058289e6eade50e
+八大娛樂,p2p://fccsovh.pvbox.live:18912/5b14096a000628062f2c204ca0f6e2c1
+HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd95a82f6a0bd15d936
+HBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a146e9bd5a940b3c0b
+CHC 家庭影院 HD,p2p://fccsovh.pvbox.live:18912/5b14092b0004ba230d14fce6d6722564
+CHC 高清電影 HD,p2p://fccsovh.pvbox.live:18912/5b140953000b29efe700486c6067c86b
+探索頻道,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e075596cf892531768
+DISCOVERY科學頻道 HD,p2p://fccsovh.pvbox.live:18912/5b14093f000e802b507efc61afa380bd
+探索動力,p2p://fccsovh.pvbox.live:18912/5b14093f0006280183e1e852e02956f0
+CHC 動作電影 HD,p2p://fccsovh.pvbox.live:18912/5b14092b0002d180619435d0c7243e44
+Discovery BR,p2p://fccseuro.pvbox.live:18912/5bee4e830000792b19ca359942847fe8
+Discovery Civilization,p2p://fccseuro.pvbox.live:18912/5bee4e860006918a19ca42d74e5c2169
+Discovery Home Health,p2p://fccseuro.pvbox.live:18912/5bee4e89000e17d319ca50831e4746cf
+Discovery Kids,p2p://fccseuro.pvbox.live:18912/5bee4e8d000586a619ca5df12c78027d
+Discovery Science BR,p2p://fccseuro.pvbox.live:18912/5bee4e90000c4e2119ca6b6e513a3de2
+Discovery Theater,p2p://fccseuro.pvbox.live:18912/5bee4e9400035d9f19ca78bc246f50ff
+Discovery Turbo,p2p://fccseuro.pvbox.live:18912/5bee4e97000ce6c919ca86e56c7d0761
+Discovery WORLD,p2p://fccseuro.pvbox.live:18912/5bee4e9b0004056f3c80fc608bfdc1fd
+Disney BR,p2p://fccseuro.pvbox.live:18912/5bee4e9e000ba64919caa1ef52c43b23
+DISNEY JR BR,p2p://fccseuro.pvbox.live:18912/5bee4ea20003335f19caaf5d34b301d0
+Disney XD BR,p2p://fccseuro.pvbox.live:18912/5bee4ea50009f36c19cabcda2ac3795d
+
 
 
 
