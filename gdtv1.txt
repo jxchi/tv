@@ -131,7 +131,7 @@ CCTV-2HD,http://www.zgrqq.top/utv.php?id=CCTV2HD_7000
 CCTV-3HD,http://www.zgrqq.top/utv.php?id=CCTV3HD_7000
 CCTV-5HD,http://www.zgrqq.top/utv.php?id=CCTV5HD_7000
 CCTV-5+HD,http://www.zgrqq.top/utv.php?id=CCTV5plusHD_7000
-CCTV-6HD,http://www.zgrqq.top/utv.php?id=CCTV6HD_7000#http://27.36.116.229:7074/AAA/aaa?t=&pid=&cid=312&u=13302594676&p=10&l=001&d=123456&n=CCTV6HD_7000&v=2
+CCTV-6HD,http://27.36.116.229:7074/AAA/aaa?t=&pid=&cid=312&u=13302594676&p=10&l=001&d=123456&n=CCTV6HD_7000&v=2
 CCTV-7HD,http://www.zgrqq.top/utv.php?id=CCTV7HD_7000
 CCTV-8HD,http://www.zgrqq.top/utv.php?id=CCTV8HD_7000
 CCTV-9HD,http://www.zgrqq.top/utv.php?id=CCTV9HD_7000
