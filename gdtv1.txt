@@ -1207,7 +1207,6 @@ NOW新闻台,http://live.52ypp.com:81/hk.php?id=15
 ViuTV,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=4
 香港有线新闻,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=5
 香港有线新闻,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=6
-7,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=7
 TVB无线新闻台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=8
 TVB无线新闻台HD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=9
 TVB翡翠台SD,http://tv.ukiss.love/dl/tv/8/wintvh.php?id=10
