@@ -228,7 +228,7 @@ CBN每日影院,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=071&FvSeid=1&Fs
 广州少儿,http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=227&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 卡卡少儿,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8
 炫动卡通2,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
-金鹰卡通,http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8#http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8#http://223.82.250.72/live/jinyingkaton/1.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8#http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
+金鹰卡通,http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8#http://223.82.250.72/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8#http://223.82.250.72/live/jinyingkaton/1.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8#http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
 济南少儿频道,http://ts2.ijntv.cn/jnse/sd1/live.m3u8?_upt=c3e918011515232399
 浙江少儿,http://112.17.40.140/PLTV/88888888/224/3221226251/index.m3u8
 炫动卡通,http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8#http://183.207.249.7/PLTV/2/224/3221226047/index.m3u8#http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
