@@ -602,6 +602,10 @@ Newtv-精品大剧,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/
 
 
 测试,#genre#
+香港有线新闻台,http://liveicm.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+香港有线娱乐台,https://liveicm.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+香港有线财经资讯台,https://liveicm.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+香港有线赛马直击,https://liveicm.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8
 凤凰中文 官方HD,http://tv.sason.xyz/proxy/fh.php?id=zw
 凤凰资讯 官方HD,http://tv.sason.xyz/proxy/fh.php?id=zx
 凤凰香港 官方HD,http://tv.sason.xyz/proxy/fh.php?id=hk
@@ -653,6 +657,7 @@ TVBS新闻 FHD ★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 莲花卫视 FHD,http://220.158.149.28:8180/TV00000000000000000069@HHZT;LIVE
 NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 新加坡8频道,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
 
 
 东森财经新闻(软解),http://111.13.111.192/211.75.9.37:20010/20017
