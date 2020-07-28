@@ -241,17 +241,21 @@ CCTV5+高清,http://116.20.80.83:9981/stream/channelid/1944192663?ticket=E70C298
 
 
 珠江宽频,#genre#
-广东卫视HD,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=43
-南方卫视,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=9
-经济科教,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=20
-广东新闻,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=235
-广东体育,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=8
-珠江电影,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=7
-凤凰中文,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=190
-星空卫视,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=233
-澳亚卫视,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=192
-翡翠台,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=188
-翡翠明珠,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=12
+广东卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=5&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东综艺,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=17&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东珠江,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东体育,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=21&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东经济科教,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=24&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东新闻,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=25&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东少儿,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=26&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广东公共,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=27&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+珠江电影,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=39&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+南方卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=19&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+凤凰卫视,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=40&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州综合,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=2&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州新闻,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=9&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+广州竞赛,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
 
 
@@ -259,24 +263,24 @@ CCTV5+高清,http://116.20.80.83:9981/stream/channelid/1944192663?ticket=E70C298
 
 
 广东有线(2),#genre#
-CCTV-1HD,http://tkhz.vip/gd.php?id=CCTV1HD_7000
-CCTV-2HD,http://tkhz.vip/gd.php?id=CCTV2HD_7000
-CCTV-3HD,http://tkhz.vip/gd.php?id=CCTV3HD_7000
-CCTV-4,http://tkhz.vip/gd.php?id=CCTV4_1500
-CCTV-5HD,http://tkhz.vip/gd.php?id=CCTV5HD_7000
-CCTV-5+HD,http://tkhz.vip/gd.php?id=CCTV5plusHD_7000
-CCTV-6HD,http://tkhz.vip/gd.php?id=CCTV6HD_7000
-CCTV-7HD,http://tkhz.vip/gd.php?id=CCTV7HD_7000
-CCTV-8HD,http://tkhz.vip/gd.php?id=CCTV8HD_7000
-CCTV-9HD,http://tkhz.vip/gd.php?id=CCTV9HD_7000
-CCTV-10HD,http://tkhz.vip/gd.php?id=CCTV10HD_7000
-CCTV-12HD,http://tkhz.vip/gd.php?id=CCTV12HD_7000
-CCTV-13HD,http://tkhz.vip/gd.php?id=yueyuHD_7000
-CCTV-14HD,http://tkhz.vip/gd.php?id=CCTV14HD_7000
-CCTV-15,http://tkhz.vip/gd.php?id=CCTV15music_1500
-广东卫视HD,http://tkhz.vip/gd.php?id=guangdongHD_7000
-梅州一套,http://tkhz.vip/gd.php?id=meizhouyitao_1500
-梅州二套,http://tkhz.vip/gd.php?id=meizhouertao_1500
-广东体育HD,http://tkhz.vip/gd.php?id=gdsportsHD_7000
-凤凰中文,http://tkhz.vip/gd.php?id=fhzw_1500
+CCTV-1HD,http://tkhz.vip/gd234.php?id=CCTV1HD_7000
+CCTV-2HD,http://tkhz.vip/gd234.php?id=CCTV2HD_7000
+CCTV-3HD,http://tkhz.vip/gd234.php?id=CCTV3HD_7000
+CCTV-4,http://tkhz.vip/gd234.php?id=CCTV4_1500
+CCTV-5HD,http://tkhz.vip/gd234.php?id=CCTV5HD_7000
+CCTV-5+HD,http://tkhz.vip/gd234.php?id=CCTV5plusHD_7000
+CCTV-6HD,http://tkhz.vip/gd234.php?id=CCTV6HD_7000
+CCTV-7HD,http://tkhz.vip/gd234.php?id=CCTV7HD_7000
+CCTV-8HD,http://tkhz.vip/gd234.php?id=CCTV8HD_7000
+CCTV-9HD,http://tkhz.vip/gd234.php?id=CCTV9HD_7000
+CCTV-10HD,http://tkhz.vip/gd234.php?id=CCTV10HD_7000
+CCTV-12HD,http://tkhz.vip/gd234.php?id=CCTV12HD_7000
+CCTV-13HD,http://tkhz.vip/gd234.php?id=yueyuHD_7000
+CCTV-14HD,http://tkhz.vip/gd234.php?id=CCTV14HD_7000
+CCTV-15,http://tkhz.vip/gd234.php?id=CCTV15music_1500
+广东卫视HD,http://tkhz.vip/gd234.php?id=guangdongHD_7000
+梅州一套,http://tkhz.vip/gd234.php?id=meizhouyitao_1500
+梅州二套,http://tkhz.vip/gd234.php?id=meizhouertao_1500
+广东体育HD,http://tkhz.vip/gd234.php?id=gdsportsHD_7000
+凤凰中文,http://tkhz.vip/gd234.php?id=fhzw_1500
 
