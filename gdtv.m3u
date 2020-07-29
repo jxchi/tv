@@ -66,9 +66,9 @@ rtsp://183.58.12.204/PLTV/88888905/224/3221227484/100001000000000600000000039288
 #EXTINF:-1 group-title="电信IPTV",广东体育超清
 rtsp://183.58.12.204/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil?icpid=88888888
 #EXTINF:-1 group-title="电信IPTV",梅州一套
-http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8#http://v1.91kds.com/b/gdmztv.m3u8?id=gdmztv1&pwd=91kds#rtmp://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1#http://pili-live-hdl.tvliving.gdmztv.com/meizhou-tvliving/mztv1.flv
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
 #EXTINF:-1 group-title="电信IPTV",梅州二套
-http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8#http://v1.91kds.com/b/gdmztv.m3u8?id=gdmztv2&pwd=91kds#rtmp://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2#http://pili-live-hdl.tvliving.gdmztv.com/meizhou-tvliving/mztv2.flv
+http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
 #EXTINF:-1 group-title="电信IPTV",广东公共
 rtsp://183.58.12.204/PLTV/88888905/224/3221226931/00000100000000060000000000554902_0.smil?icpid=88888888
 #EXTINF:-1 group-title="电信IPTV",广东国际
