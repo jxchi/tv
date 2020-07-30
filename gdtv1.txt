@@ -246,6 +246,7 @@ CCTV5+高清,http://116.20.80.83:9981/stream/channelid/1944192663?ticket=E70C298
 
 
 
+
 广东有线(2),#genre#
 CCTV-1HD,http://tkhz.vip/gd234.php?id=CCTV1HD_7000
 CCTV-2HD,http://tkhz.vip/gd234.php?id=CCTV2HD_7000
