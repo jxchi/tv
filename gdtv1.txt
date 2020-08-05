@@ -248,26 +248,11 @@ CCTV5+高清,http://116.20.80.83:9981/stream/channelid/1944192663?ticket=E70C298
 
 
 广东有线(2),#genre#
-CCTV-1HD,http://tkhz.vip/gd234.php?id=CCTV1HD_7000
-CCTV-2HD,http://tkhz.vip/gd234.php?id=CCTV2HD_7000
-CCTV-3HD,http://tkhz.vip/gd234.php?id=CCTV3HD_7000
-CCTV-4,http://tkhz.vip/gd234.php?id=CCTV4_1500
-CCTV-5HD,http://tkhz.vip/gd234.php?id=CCTV5HD_7000
-CCTV-5+HD,http://tkhz.vip/gd234.php?id=CCTV5plusHD_7000
-CCTV-6HD,http://tkhz.vip/gd234.php?id=CCTV6HD_7000
-CCTV-7HD,http://tkhz.vip/gd234.php?id=CCTV7HD_7000
-CCTV-8HD,http://tkhz.vip/gd234.php?id=CCTV8HD_7000
-CCTV-9HD,http://tkhz.vip/gd234.php?id=CCTV9HD_7000
-CCTV-10HD,http://tkhz.vip/gd234.php?id=CCTV10HD_7000
-CCTV-12HD,http://tkhz.vip/gd234.php?id=CCTV12HD_7000
-CCTV-13HD,http://tkhz.vip/gd234.php?id=yueyuHD_7000
-CCTV-14HD,http://tkhz.vip/gd234.php?id=CCTV14HD_7000
-CCTV-15,http://tkhz.vip/gd234.php?id=CCTV15music_1500
-广东卫视HD,http://tkhz.vip/gd234.php?id=guangdongHD_7000
-梅州一套,http://tkhz.vip/gd234.php?id=meizhouyitao_1500
-梅州二套,http://tkhz.vip/gd234.php?id=meizhouertao_1500
-广东体育HD,http://tkhz.vip/gd234.php?id=gdsportsHD_7000
-凤凰中文,http://tkhz.vip/gd234.php?id=fhzw_1500
+CCTV-5 高清,http://116.20.80.49:9981/stream/channelid/1121094740?ticket=CE82ADDD910BC200DC936D6BA23DCF9E5E7E3456&profile=pass
+CCTV5+高清,http://116.20.80.49:9981/stream/channelid/1944192663?ticket=E70C29836A97865687824A2C6F5529A4FB075521&profile=pass
+广东体育高清,http://116.20.80.49:9981/stream/channelid/1265114946?ticket=27AB360E01B17718AC7FFF3639EA61D3586C7F0D&profile=pass
+魅力足球,http://116.20.80.49:9981/stream/channelid/579104495?ticket=13AA268671384FA7EBFFDFAABB2D4067957D9491&profile=pass
+足球频道高清,http://116.20.80.49:9981/stream/channelid/1686819685?ticket=A01F131086F20D996F48E5641127C0B2B899EE34&profile=pass
 
 
 
