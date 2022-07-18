@@ -53,25 +53,13 @@ CCTV-16奥林匹克,rtsp://183.58.12.204/PLTV/88888905/224/3221230225/425398358.
 CCTV-17农业高清,rtsp://183.59.156.50/PLTV/88888905/224/3221229870/10000100000000060000000010232873_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=/+akjaBNtrxv++Nlci7N1GWGerOaC+XYLh9OOsbcYpBZpE5Fjy4Wp3Jul0t692MecGUxbnM9ZfOcCvij6GLDGveliofE49RneKThAOoyW/3RbDYGzY4aMb7dUd8Pcq+xj7qas2DgUqAywBdP52h2Bg==:20200323001401,02040449949,10.107.218.172,20200323001401,02000000000000052019073099000001,D78A82378B66CBBE68D8348554D40FF2,-1,0,1,,,2,,,,2,
 
 
-
-凤凰中文HD,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=OTT2805920220502041807053655$闽移OTT
-凤凰资讯HD,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT2727320220502042549047624$闽移OTT
-
-凤凰中文HD,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8$官网1080P
-凤凰资讯HD,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8$官网1080P
-凤凰香港HD,http://hkss3.phoenixtv.com/fs/phk.stream/playlist.m3u8$官网1080P
-
-
-凤凰中文HD,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8$官网720P
-凤凰资讯HD,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8$官网720P
-
-凤凰中文HD,http://ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8$北京移动
-凤凰中文HD,http://ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$北京移动
-凤凰资讯HD,http://ywotttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8$北京移动
-
-凤凰中文HD,https://al-pull2.hkatv.vip/live/phoenixPCC.m3u8?auth_key=1646994696-0-0-9b21de544bc516cc7c90c94d7a819655$亚视720P
-凤凰资讯HD,https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8?auth_key=1646994760-0-0-8540950525a83c99ee4cdfd4cf088846$亚视720P
-凤凰香港HD,https://al-pull2.hkatv.vip/live/phoenixPHK.m3u8?auth_key=1646994746-0-0-31258feee0eceb735ccebe9b8f995c13$亚视720P
+凤凰资讯台,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
+凤凰资讯台,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰资讯台,http://51.79.193.108:8080/hls/ph00452/index.m3u8
+凤凰中文台,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文台,http://51.79.193.108:8080/hls/ph00451/index.m3u8
+凤凰香港台,http://51.79.193.108:8080/hls/ph00453/index.m3u8
 
 
 
