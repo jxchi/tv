@@ -73,14 +73,11 @@ CCTV-17农业高清,rtsp://183.59.156.50/PLTV/88888905/224/3221229870/1000010000
 
 广东体育超清,rtsp://183.59.156.50/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=/+akjaBNtrxv++Nlci7N1GWGerOaC+XYLh9OOsbcYpBZpE5Fjy4Wp3Jul0t692MecGUxbnM9ZfOcCvij6GLDGveliofE49RneKThAOoyW/3RbDYGzY4aMb7dUd8Pcq+xlhGzVCb7g1l9i8quZgKLag==:20200323001401,02040449949,10.107.218.172,20200323001401,02000004000000052015081800000003,D78A82378B66CBBE68D8348554D40FF2,-1,0,1,,,2,,,,2,
 
-梅州1高清-①,http://wtv.weetai.cn:80/iptv/2022/tyzb38.php?id=mzzh
-梅州1高清-②,http://hd0808.top/iptv/g.php?id=meizhou1HD
+梅州1高清-①,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
 
-梅州2高清-①,http://www.teyond.cn:80/iptv/9/tyzb01.php?id=meizhou2HD
-梅州2高清-②,http://hd0808.top/iptv/g.php?id=meizhou2HD
 
-梅州一套,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
-梅州二套,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
+梅州2高清-①,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
+
 
 广东公共高清,rtsp://183.59.70.74:554/PLTV/88888905/224/3221230072/10000100000000060000000011293287_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=~~V2.0~JfOJh8kUHwkvOQkuZOyKkA~cTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==:20201118191457,23789887,113.117.62.188,20201118191457,02000006000000052020101699000003,2378988720201118191456,-1,0,1,,,2,,,,2,END&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605705733
 
@@ -249,17 +246,11 @@ CCTV-13 新闻,rtsp://183.59.207.245/PLTV/88888905/224/3221229973/10000100000000
 广东卫视高清,rtsp://183.59.156.50/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=/+akjaBNtrxv++Nlci7N1GWGerOaC+XYLh9OOsbcYpBZpE5Fjy4Wp3Jul0t692MecGUxbnM9ZfOcCvij6GLDGveliofE49RneKThAOoyW/3RbDYGzY4aMb7dUd8Pcq+xvk3uvfeLrJSUU9TKsnljRg==:20200323001401,02040449949,10.107.218.172,20200323001401,02000001000000050000000000000374,D78A82378B66CBBE68D8348554D40FF2,-1,0,1,,,2,,,,2,
 
 
-梅州1高清-①,http://wtv.weetai.cn:80/iptv/2022/tyzb38.php?id=mzzh
-梅州1高清-②,http://hd0808.top/iptv/g.php?id=meizhou1HD
+梅州1高清-①,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
 
-梅州2高清-①,http://www.teyond.cn:80/iptv/9/tyzb01.php?id=meizhou2HD
-梅州2高清-②,http://hd0808.top/iptv/g.php?id=meizhou2HD
 
-梅州一套,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv1.m3u8
-梅州二套,http://pili-live-rtmp.tvliving.gdmztv.com/meizhou-tvliving/mztv2.m3u8
+梅州2高清-①,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
 
-广东体育HD,http://www.teyond.cn:80/iptv/9/tyzb01.php?id=gdsportsHD_7000
-魅力足球HD,http://www.teyond.cn:80/iptv/9/tyzb01.php?id=meiliyinyueHD_7000
 
 
 
@@ -1238,24 +1229,49 @@ CHC-高清电影,http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 无线新闻,http://kkmix2.f3322.net:771/hls/ch2/s.m3u8
 明珠台,http://kkmix2.f3322.net:771/hls/ch1/s.m3u8
 星河台,http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
+星河台,http://113.64.147.60:808/hls/135/index.m3u8
 开电视,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8?blog.ntnas.top
 开电视,https://epg.pm/stream/9a4e3839edae4bb93f294684d087800834fc0280ad5d38baaab83ea77d898026.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+Now新闻台,http://xindapc.qicp.vip:5502/now.php?id=332
+有线新闻,http://dianshi5.zhxinda.xyz:5911/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8?blog.ntnas.top
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8?blog.ntnas.top
-财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
-有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8?blog.ntnas.top
+
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
+翡翠台(备),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
+无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84b/index.m3u8
+无线财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
+开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 
 翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
 无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
+Now新闻台,http://xindapc.qicp.vip:5502/now.php?id=332
+有线新闻,http://dianshi5.zhxinda.xyz:5911/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
-财经资讯,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9
+
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
+翡翠台,https://cdn.hklive.tv/hls/81b/index.m3u8
+无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
+无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
+明珠台,https://cdn.hklive.tv/hls/84b/index.m3u8
+翡翠台,https://cdn.hkdtmb.com/raw/81.ts
+翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
+无线新闻,https://cdn.hkdtmb.com/raw/83.ts
+无线新闻,http://livesec.mudu.tv/watch/ow7vfa.m3u8
+明珠台,https://cdn.hkdtmb.com/raw/84.ts
+明珠台,https://cdn.hkdtmb.com/raw/84b.ts
 
 無綫新闻,mitv://45.92.126.18:9906/6258ea7a0006d8b111fe0b3c369d9e17
 無綫视经资讯,mitv://45.92.126.18:9906/62595c1a000d108b13b9e5d4f3816d5e
