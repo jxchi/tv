@@ -1273,64 +1273,116 @@ Now新闻台,http://xindapc.qicp.vip:5502/now.php?id=332
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
 明珠台,https://cdn.hkdtmb.com/raw/84b.ts
 
-翡翠台(备),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
-J2,mitv://ns2.hellotvvod.com:9906/0f23e087ac2f48ed899aa5d2c9318de9
-无线新闻台(备),mitv://ns2.hellotvvod.com:9906/503b55f07ee54bfcbd735f5b5317b74d
-无线新闻台,mitv://ns2.hellotvvod.com:9906/477ca8b59d4d4540a817194978e61be3
-无线财经·资讯台,mitv://ns2.hellotvvod.com:9906/dba2f67394c740c5835212b90fcb2229
-now新闻台,mitv://ns2.hellotvvod.com:9906/63c5cd9115474cf38d5b667850a71a86
-now直播台,mitv://ns2.hellotvvod.com:9906/dc7f3b965bf9407faa31861c8d8d5b78
-HKC电影台,mitv://ns2.hellotvvod.com:9906/a7ee9ed919344fae822161b7fe59e476
-凤凰电影台,mitv://ns2.hellotvvod.com:9906/7eb5c8279eb24e92832af093b2bfbbf2
-HKC新闻台,mitv://ns2.hellotvvod.com:9906/15ecaaffb0fa4f5280c82659be8feb79
-TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/f40d30c06c1a473db5c6e9760158b32c
-翡翠台,mitv://ns2.hellotvvod.com:9906/f12530dbbe6746adbacf094396e29044
-TVB经典台,mitv://ns2.hellotvvod.com:9906/f56326e07da747c3aa631e17a96a70ea
-Thrill,mitv://ns2.hellotvvod.com:9906/b2b7f90bc09940d58a551cb7a17ab0d8
-明珠台,mitv://ns2.hellotvvod.com:9906/ecaedda5c6d0418dbb574071787e25b9
-18台,mitv://ns2.hellotvvod.com:9906/d008280d709644d98456cc3fd2acdcd1
-爆谷星影台,mitv://ns2.hellotvvod.com:9906/f65d0dc4a86c49ba84f8c466103ce3be
-美亚电影台(粤语),mitv://ns2.hellotvvod.com:9906/a2cf0007ddc44e6abc21090e0d4c07de
-Hands Up,mitv://ns2.hellotvvod.com:9906/c79571517a594f0692c0e0b9a9eba11f
-粤语片台,mitv://ns2.hellotvvod.com:9906/646e22af9e9f40beade0419c3aeab322
-亚洲剧台,mitv://ns2.hellotvvod.com:9906/389f0f1540d443568ee0d25fab180ac2
-功夫台,mitv://ns2.hellotvvod.com:9906/11779bf35d0d4bde86a0339d17c7c347
-爆谷台,mitv://ns2.hellotvvod.com:9906/3992d25f44ba46dda4de97c8801ffad7
-卫视电影台,mitv://ns2.hellotvvod.com:9906/08b9531e9d6445f8b80d4f3c8fe3267e
-东森电影台,mitv://ns2.hellotvvod.com:9906/5e719791317f41acbb6bf8b3be345f82
-纬来电影台,mitv://ns2.hellotvvod.com:9906/13381edbcf9e43c5bd9a8cfc01443c2a
-龙祥电影,mitv://ns2.hellotvvod.com:9906/0cd9a632f2b84d2b8924e6c5eef5fa80
-HBO,mitv://ns2.hellotvvod.com:9906/deaedd5b4e984da782d83bd92cf5a704
-东森洋片台,mitv://ns2.hellotvvod.com:9906/8a1ff4a067904e7b95d15a545b9d12ca
-AXN,mitv://ns2.hellotvvod.com:9906/ca4703e2a87740bca28a5bed681d2bb6
-好莱坞电影台,mitv://ns2.hellotvvod.com:9906/9956af94fe414c4dad585bdbfcc20aa5
-CINEMAX,mitv://ns2.hellotvvod.com:9906/5f32b3dd07104e79bba0e5e17ebd693f
-美亚电影台HD,mitv://ns2.hellotvvod.com:9906/7380e30cb6ca43eba91d9eb61d64e890
-龙华电影,mitv://ns2.hellotvvod.com:9906/1b6b62a7122142ec8193504cf0a103f3
-星卫HD电影台,mitv://ns2.hellotvvod.com:9906/16841dceb1e04f3382c6b1ae3cf09b04
-靖天映画,mitv://ns2.hellotvvod.com:9906/c869a2361cba40e59d3f87a14a887eb7
-靖天电影台,mitv://ns2.hellotvvod.com:9906/f1e536feac654c2fbd263c3d0e88f778
-WARNER TV,mitv://ns2.hellotvvod.com:9906/bc0e26f137c14487b4206580b8edcadb
-Star Movies HD,mitv://ns2.hellotvvod.com:9906/62cfce02ec5b4e5d8c9160dbe3859cc4
-AMC最爱电影,mitv://ns2.hellotvvod.com:9906/d735892105d24440af69d6869a4ea091
-HBO Family,mitv://ns2.hellotvvod.com:9906/89345976794c4f0a9aa539e37b6008a5
-CatchPlay电影台,mitv://ns2.hellotvvod.com:9906/8c1f66f57aed4019ba8e0b4fd031446e
-CinemaWorld,mitv://ns2.hellotvvod.com:9906/3ebbd0df730c4be68d445dc5488061bc
-壹电视电影台,mitv://ns2.hellotvvod.com:9906/47082ad9062d4e36b7519484c386e1a0
-国家地理频道,mitv://ns2.hellotvvod.com:9906/85660dd12d974fc49683fed91d3114db
-探索频道,mitv://ns2.hellotvvod.com:9906/2fc7400c794943bca00b41f24b99346b
-TLC旅游生活,mitv://ns2.hellotvvod.com:9906/7e9887e698744b1b973a4c38d67ac81e
-动物星球,mitv://ns2.hellotvvod.com:9906/14d7758759c746c88f9d962de3696bcc
-Nat Geo Wild,mitv://ns2.hellotvvod.com:9906/518cc5aa7eab4c03b3a3a08ce6ac07dc
-ELTV生活英语台,mitv://ns2.hellotvvod.com:9906/7d64a7c6354549d0b124208229f92a51
-达文西频道,mitv://ns2.hellotvvod.com:9906/13b05689eb35417f967be8aef32e2f3c
-国家地理高画质野生频道,mitv://ns2.hellotvvod.com:9906/6d6e95e73a4643a19bacb1dd738319ab
-BBC Earth,mitv://ns2.hellotvvod.com:9906/3e630f79659f4461aa7c48e333ab749f
-Discovery Asia,mitv://ns2.hellotvvod.com:9906/a00da7635c9f423f9a600800a387a80d
-Discovery科学频道,mitv://ns2.hellotvvod.com:9906/ef7dea5ccdd942b5b15f69f0dec1c93d
-DMAX,mitv://ns2.hellotvvod.com:9906/44f975d5e22b46d3b5c182468474e29f
-EVE,mitv://ns2.hellotvvod.com:9906/75513d9a0e0d4d8f9257be8fc1aef178
-HISTORY 2,mitv://ns2.hellotvvod.com:9906/f88da151e434407d9e7aad466657c956
-历史频道,mitv://ns2.hellotvvod.com:9906/3cd6363a2aad48e9b17923742fc1f2e9
-罪案侦缉频道,mitv://ns2.hellotvvod.com:9906/2515966b2c4741049cb5207986ac31e9
-BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/15fd795371a745bdad089b5b8568555e
+
+鳳凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
+鳳凰資訊,mitv://fccs.word-tv.com:9906/6258288b0006f4a60f087dab170cf23e
+鳳凰香港,mitv://fccs.word-tv.com:9906/62582991000071710f0c7b707491d2e9
+BBC World News,mitv://fccs.word-tv.com:9906/6257e7ef0003fddd0e0c1b89963d6947
+客家電視台 ,mitv://fccs.word-tv.com:9906/6257e9d70000ce760e138cf889fb92c2
+國家地理國際頻道,mitv://fccs.word-tv.com:9906/62541d810002b7c00981a33911a2eb57
+探索頻道,mitv://fccs.word-tv.com:9906/62541db9000483b809827e6fdf85c22c
+TLC旅遊 ,mitv://fccs.word-tv.com:9906/62584cd60007230e0f9642af98aa2879
+動物星球,mitv://fccs.word-tv.com:9906/62541d9c0009282c09820e57f2a59d11
+Boomerang,mitv://fccs.word-tv.com:9906/62584d670009313f0f98799e2354015b
+衛視中文台 ,mitv://fccs.word-tv.com:9906/625853fa000f1f080fb2295a047a36dc
+東森綜合 ,mitv://fccs.word-tv.com:9906/6258543f000be6350fb3360fed87de8b
+東森超視,mitv://fccs.word-tv.com:9906/625854810005f8350fb4365bf7cd8f4e
+Eleven Sports 1,mitv://fccs.word-tv.com:9906/625854d4000964b10fb57b7382610c8d
+Eleven Sports 2 ,mitv://fccs.word-tv.com:9906/6258550f0001c6880fb65ff87e0ebc13
+中天綜合 ,mitv://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
+東風衛視,mitv://fccs.word-tv.com:9906/6258585d0007329c0fc34a0b3c4be606
+年代MUCH,mitv://fccs.word-tv.com:9906/625858aa000f2ee50fc478de23b3e0dd
+中天娛樂,mitv://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
+東森戲劇,mitv://fccs.word-tv.com:9906/625420c30002ef15098e5d177b7f38b1
+八大戲劇,mitv://fccs.word-tv.com:9906/6258594f0004c9c40fc6fabdb0e81edf
+TVBS歡樂台,mitv://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
+緯來戲劇 ,mitv://fccs.word-tv.com:9906/62585f76000e7ba90fdf0591eb84257b
+高點綜合 ,mitv://fccs.word-tv.com:9906/62585fb8000970600fe0061669e3aba4
+JET 綜合台 ,mitv://fccs.word-tv.com:9906/625860030000abdc0fe128cf548f1def
+ETtoday綜合台,mitv://fccs.word-tv.com:9906/6258604e000c87130fe250d0bb957895
+中天新聞,mitv://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
+衛視電影台,mitv://fccs.word-tv.com:9906/6256bd0a000359ee097c8cd7ea2af582
+龍祥電影台,mitv://fccs.word-tv.com:9906/62619be5000cf11a1a0013b604555db1
+東森電影,mitv://fccs.word-tv.com:9906/62541ccb0008d232097eddd9e4082c99
+緯來電影 ,mitv://fccs.word-tv.com:9906/625b8f93000ccb45025ff35db29f96fd
+HBO HD,mitv://fccs.word-tv.com:9906/6268100d000c1b5d19322ef22ed23efc
+東森洋片,mitv://fccs.word-tv.com:9906/62541d6200021780098129f8ea5d0f93
+AXN,mitv://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
+好萊塢電影,mitv://fccs.word-tv.com:9906/6256bd25000a0a02097cf805932004af
+STAR MOVIES,mitv://fccs.word-tv.com:9906/6258d58f000430fa11ac54962a5c2d42
+CINEMAX ,mitv://fccs.word-tv.com:9906/6258d81f000a40aa11b658a3fe101246
+緯來育樂,mitv://fccs.word-tv.com:9906/6256bd41000a7a7c097d6582fe044cc4
+緯來體育,mitv://fccs.word-tv.com:9906/62541bbd000ba7f6097abfe357f9c565
+MOMO綜合台,mitv://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
+緯來日本,mitv://fccs.word-tv.com:9906/62637c010003ce15074fddf26f0135da
+國興衛視,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759
+中天亞洲,mitv://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
+STAR Word,mitv://fccs.word-tv.com:9906/6258dcea0002765e11c90f9d2d7fac5d
+HBO HITS,mitv://fccs.word-tv.com:9906/6258e224000020c111dd7994321ef7ec
+HBO家庭,mitv://fccs.word-tv.com:9906/6258e2990005537411df43f0702258cf
+HBO原创,mitv://fccs.word-tv.com:9906/6259b8f1000b9a0015248d4cabbe753c
+狼谷娛樂,mitv://fccs.word-tv.com:9906/6258f82b00089b8f12338718bf84237d
+MTV,mitv://fccs.word-tv.com:9906/6258e40a000dc72411e4e7829de2c8b5
+Viu TV,mitv://fccs.word-tv.com:9906/62716383000252be099745b8d64c4cfa
+VIU SIX,mitv://fccs.word-tv.com:9906/627160d00008ced7098cbc29e23c5e0c
+J5無線財經新聞,mitv://fccs.word-tv.com:9906/62595c1a000d108b13b9e5d4f3816d5e
+明珠台,mitv://fccs.word-tv.com:9906/6258eaca00006a3411ff4217b567e90f
+互動新聞,mitv://fccs.word-tv.com:9906/6258ea7a0006d8b111fe0b3c369d9e17
+翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
+J2,mitv://fccs.word-tv.com:9906/6258eae70008a93811ffb57b47682072
+RHK31,mitv://fccs.word-tv.com:9906/62595a6e000b3da213b35d7c1c92697f
+RHK32,mitv://fccs.word-tv.com:9906/62595a8a0007901013b3c9eb93df46aa
+香港有線新聞,mitv://fccs.word-tv.com:9906/6258e930000d447111f903d1236f6fc8
+有線18台,mitv://fccs.word-tv.com:9906/626bc57e0002fcc70daa763a17885784
+有線財經資訊,mitv://fccs.word-tv.com:9906/626bc59f000aad820daaf91ae564e9c6
+有線603高清,mitv://fccs.word-tv.com:9906/626bc5c00008e69a0dab798eb8ae558d
+香港有線電影,mitv://fccs.word-tv.com:9906/626bc5e5000b44cb0dac0ab18c230b75
+有線綜合娛樂,mitv://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b
+有線衛視電影台,mitv://fccs.word-tv.com:9906/626bd4820001292c0de51d63fb84af95
+TVB星河高清頻道,mitv://fccs.word-tv.com:9906/6258eb4900053d031201336ba06ccbdc
+澳門蓮花,mitv://fccs.word-tv.com:9906/6258e686000e215f11ee9bf962767123
+國家地理高畫質野生頻道,mitv://fccs.word-tv.com:9906/6258eb6f0008bb551201c8c015a4226c
+Discovery Asia,mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0
+探索動力,mitv://fccs.word-tv.com:9906/6258ec18000964b412045d13a4eb316e
+探索科學高清頻道,mitv://fccs.word-tv.com:9906/6258ebf3000576221203cb8904668102
+EVE健康,mitv://fccs.word-tv.com:9906/6258ec270004be301204967a3d33f14a
+EYE TV旅遊台,mitv://fccs.word-tv.com:9906/62595e910009221e13c385aa08f4d222
+亞洲旅遊台,mitv://fccs.word-tv.com:9906/62595eed0008772713c4ecde7515ec18
+愛爾達綜合,mitv://fccs.word-tv.com:9906/62595f88000e134a13c74bc62a907482
+愛爾達影劇台,mitv://fccs.word-tv.com:9906/62595fe00007a82a13c8a1e18c1171c7
+EYE TV戲劇台　,mitv://fccs.word-tv.com:9906/625960940003b62a13cb5fff85627bd1
+古典音樂台CLASSICA HD,mitv://fccs.word-tv.com:9906/6260fd970004b7061795b0eb2df29131
+LUXE TV Channel,mitv://fccs.word-tv.com:9906/6259b55f000cba8815169b462e40e185
+三立戲劇,mitv://fccs.word-tv.com:9906/6259b5a1000d5db415179d3f530f1044
+三立綜合,mitv://fccs.word-tv.com:9906/6259b57f0003ca05151715fc95200be0
+亞洲旅遊台,mitv://fccs.word-tv.com:9906/6260e4ab0008152e173457e810b3184d
+Travel Channel,mitv://fccs.word-tv.com:9906/626141950004f9a5189f492c02913ec0
+龍華洋片,mitv://fccs.word-tv.com:9906/62613bc2000a344018888a4b2452f6fd
+龍華經典,mitv://fccs.word-tv.com:9906/62618a40000060f919bb23f73fed9563
+龍華戲劇,mitv://fccs.word-tv.com:9906/6260e4c0000811ed1734a9ef0f8923c2
+龍華偶像,mitv://fccs.word-tv.com:9906/6260e4e9000627b41735499a8a2abd33
+龍華影劇,mitv://fccs.word-tv.com:9906/6260e4fc0003a35a1735932d66a9b4e5
+靖天資訊,mitv://fccs.word-tv.com:9906/62680bf30004db8219222787aaffbf79
+靖天卡通台,mitv://fccs.word-tv.com:9906/62618c1e000132fa19c26f5d328c9a20
+天映經典電影,mitv://fccs.word-tv.com:9906/6260fa83000c7b8e1789acc84075d31b
+韓國娛樂台KMTV,mitv://fccs.word-tv.com:9906/6260fa95000d4aba1789f34d5039df1a
+歷史頻道,mitv://fccs.word-tv.com:9906/6261294500077fb31840515220a0a636
+HISTORY 2,mitv://fccs.word-tv.com:9906/62612b2d000c46021847c4cb0d2536d1
+BBC Earth,mitv://fccs.word-tv.com:9906/62612d0100000350184ee5c7d2e06684
+BBC Lifestyle,mitv://fccs.word-tv.com:9906/62612d25000c2e05184f7584a93f9e5e
+美食星球頻道,mitv://fccs.word-tv.com:9906/626139fa00036cff1881934f1fc1ae06
+FOOD美食,mitv://fccs.word-tv.com:9906/62612f36000389e4185785b669c4f5bf
+罪案偵緝頻道,mitv://fccs.word-tv.com:9906/62612fc9000147ae1859c35a8e800dbf
+星衛HD電影台,mitv://fccs.word-tv.com:9906/62613c0200051f95188982fec2ef3ed5
+美亞電影台,mitv://fccs.word-tv.com:9906/62613d420000a1a0188e63d84b81b11c
+寰宇財經台,mitv://fccs.word-tv.com:9906/626179de00005255197b252361cec9d5
+寰宇綜合,mitv://fccs.word-tv.com:9906/62617a13000860ad197bf63b948c0cc6
+影迷數位紀實台,mitv://fccs.word-tv.com:9906/62674e25000e7546163cbd4c2de58212
+影迷數位電影台,mitv://fccs.word-tv.com:9906/626a074600072a2c06db6c8c9af16e70
+壹電影台,mitv://fccs.word-tv.com:9906/62674e97000a6a59163e799316c3d943
+amc最愛電影,mitv://fccs.word-tv.com:9906/62674eb900041ef4163efcc6b4c8cd0b
+CinemaWorld,mitv://fccs.word-tv.com:9906/626750ba0002f9431646d0630173b458
+中視新聞HD,mitv://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
+中視經典,mitv://fccs.word-tv.com:9906/626928e3000ce0de0376bb4ad8c2f741
+
+
