@@ -90,10 +90,10 @@ CCTV-17农业高清,rtsp://183.59.156.50/PLTV/88888905/224/3221229870/1000010000
 广东体育超清,rtsp://183.59.156.50/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=/+akjaBNtrxv++Nlci7N1GWGerOaC+XYLh9OOsbcYpBZpE5Fjy4Wp3Jul0t692MecGUxbnM9ZfOcCvij6GLDGveliofE49RneKThAOoyW/3RbDYGzY4aMb7dUd8Pcq+xlhGzVCb7g1l9i8quZgKLag==:20200323001401,02040449949,10.107.218.172,20200323001401,02000004000000052015081800000003,D78A82378B66CBBE68D8348554D40FF2,-1,0,1,,,2,,,,2,
 
 梅州1高清-①,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
-
+梅州1高清-②, http://59.32.98.2:9901/tsfile/live/1025_1.m3u8
 
 梅州2高清-①,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
-
+梅州2高清-②,http://59.32.98.2:9901/tsfile/live/1026_1.m3u8
 
 广东公共高清,rtsp://183.59.70.74:554/PLTV/88888905/224/3221230072/10000100000000060000000011293287_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=~~V2.0~JfOJh8kUHwkvOQkuZOyKkA~cTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==:20201118191457,23789887,113.117.62.188,20201118191457,02000006000000052020101699000003,2378988720201118191456,-1,0,1,,,2,,,,2,END&GuardEncType=2&tenantId=8601&from=187&hms_devid=73225&online=1605705733
 
@@ -263,9 +263,10 @@ CCTV-13 高清,rtsp://125.88.52.18/PLTV/88888905/224/3221230039/1000010000000006
 
 
 梅州1高清-①,http://p2.vzan.com:80/1454886638/403126774572750088/live.m3u8
-
+梅州1高清-②, http://59.32.98.2:9901/tsfile/live/1025_1.m3u8
 
 梅州2高清-①,http://p2.vzan.com:80/1454886638/645350022315428296/live.m3u8
+梅州2高清-②,http://59.32.98.2:9901/tsfile/live/1026_1.m3u8
 
 
 
@@ -1238,6 +1239,7 @@ CHC-高清电影,http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 
 
 测试-频道,#genre#
+
 翡翠台,http://kkmix2.f3322.net:770/hls/ch1/s.m3u8
 翡翠台,http://120.84.96.195:808/hls/25/index.m3u8
 翡翠台,mitv://fccs.word-tv.com:9906/6258ea0e00051f8e11fc64eb04aee473
@@ -1251,13 +1253,16 @@ CHC-高清电影,http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8
 开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8?blog.ntnas.top
 开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-Now新闻台,http://xindapc.qicp.vip:5502/now.php?id=332
-有线新闻,http://dianshi5.zhxinda.xyz:5911/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8?blog.ntnas.top
+财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8?blog.ntnas.top
+财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
+有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
+有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/playlist.m3u8?blog.ntnas.top
 
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 翡翠台,https://cdn.hklive.tv/xxxx/81b/index.m3u8
+翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
 翡翠台(备),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f	
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -1265,29 +1270,19 @@ Now新闻台,http://xindapc.qicp.vip:5502/now.php?id=332
 无线财经,https://cdn.hklive.tv/xxxx/85/index.m3u8
 开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8
 有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w2095687940.m3u8
+财经资讯,https://uc6.i-cable.com/live_freedirect/freehd208_h.live/chunklist_w892917754.m3u8
+有线直播,https://uc6.i-cable.com/live_freedirect/hd110_h.live/chunklist_w1636063330.m3u8
 
-翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
-无线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/3
-无线财经,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8
-明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
-Now新闻台,http://xindapc.qicp.vip:5502/now.php?id=332
-有线新闻,http://dianshi5.zhxinda.xyz:5911/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/4
-
-翡翠台,https://cdn.hklive.tv/hls/81/index.m3u8
-翡翠台,https://cdn.hklive.tv/hls/81b/index.m3u8
-无线新闻,https://cdn.hklive.tv/hls/83/index.m3u8
-无线财经,https://cdn.hklive.tv/hls/85/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84/index.m3u8
-明珠台,https://cdn.hklive.tv/hls/84b/index.m3u8
 翡翠台,https://cdn.hkdtmb.com/raw/81.ts
 翡翠台,https://cdn.hkdtmb.com/raw/81b.ts
 无线新闻,https://cdn.hkdtmb.com/raw/83.ts
 无线新闻,http://livesec.mudu.tv/watch/ow7vfa.m3u8
 明珠台,https://cdn.hkdtmb.com/raw/84.ts
 明珠台,https://cdn.hkdtmb.com/raw/84b.ts
+
+
+
+
 
 
 鳳凰中文,mitv://fccs.word-tv.com:9906/6258281d0002e1400f06cef0fc77e330
