@@ -288,6 +288,20 @@ CCTV-13 高清,rtsp://183.59.156.50/PLTV/88888905/224/3221230039/100001000000000
 
 
 
+有线-测试,#genre#
+
+CCTV-5HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=CCTV5HD_7000
+CCTV-5+HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=CCTV5plusHD_7000
+CCTV-16HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=1617_4500
+广东体育HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=gdsportsHD_7000
+魅力足球HD,http://99.sc1970.xyz:8888/iptv/GDH.php?id=meiliyinyueHD_7000
+风云足球,rtsp://183.59.156.50/PLTV/88888905/224/3221229930/10000100000000060000000011037422_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=~~V2.0~lo3t0CkPXl-Ytuu5GGG77w~cTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==:20201118191457,23789887,113.117.62.188,20201118191457,02000006000000052020061799000003,2378988720201118191456,-1,0,1,,,2,,,,2,END&GuardEncType=2&tenantId=8601
+梅州1高清,http://99.sc1970.xyz:8888/iptv/GDH.php?id=meizhou1HD_4500
+梅州2高清,http://99.sc1970.xyz:8888/iptv/GDH.php?id=meizhou2HD_4500
+
+
+
+
 
 
 
