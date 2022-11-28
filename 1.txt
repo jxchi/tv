@@ -290,17 +290,7 @@ CCTV-13 高清,rtsp://183.59.156.50/PLTV/88888905/224/3221230039/100001000000000
 
 
 
-有线-测试,#genre#
 
-CCTV-5HD,http://159.75.85.63:5828/gudou.php?id=CCTV5HD_7000
-CCTV-5+HD,http://159.75.85.63:5828/gudou.php?id=CCTV5plusHD_7000
-CCTV-16HD,http://159.75.85.63:5828/gudou.php?id=1617_4500
-广东体育HD,http://159.75.85.63:5828/gudou.php?id=gdsportsHD_7000
-梅州1高清,http://159.75.85.63:5828/gudou.php?id=meizhou1HD_4500
-梅州2高清,http://159.75.85.63:5828/gudou.php?id=meizhou2HD_4500
-劲爆体育HD,http://159.75.85.63:5828/gudou.php?id=jinbaotiyuHD_7000
-魅力足球HD,http://159.75.85.63:5828/gudou.php?id=meiliyinyueHD_7000
-抖音4K50P世界杯源,http://159.75.85.63:5678/zb.php?id=douyin
 
 
 
