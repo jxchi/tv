@@ -287,10 +287,21 @@ CCTV-13 高清,rtsp://183.59.156.50/PLTV/88888905/224/3221230039/100001000000000
 
 
 
+梅州频道,#genre#
+CCTV-1HD,http://wen.serv00.net/wen.php?id=CCTV1HD
+CCTV-5HD,http://wen.serv00.net/wen.php?id=CCTV5HD
+CCTV-5+HD,http://wen.serv00.net/wen.php?id=CCTV5plusHD
+CCTV-13HD,http://wen.serv00.net/wen.php?id=1613
+CCTV-16HD,http://wen.serv00.net/wen.php?id=1617_4500
+
+广东卫视HD,http://wen.serv00.net/wen.php?id=guangdongHD
+广东体育HD,http://wen.serv00.net/wen.php?id=gdsportsHD
+梅州1高清,http://wen.serv00.net/wen.php?id=meizhou1HD
+梅州2高清,http://wen.serv00.net/wen.php?id=meizhou2HD
 
 
-
-
+劲爆体育HD,http://wen.serv00.net/wen.php?id=jinbaotiyuHD 
+魅力足球HD,http://wen.serv00.net/wen.php?id=meiliyinyueHD 
 
 
 
