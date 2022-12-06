@@ -288,7 +288,7 @@ CCTV-13 高清,rtsp://183.59.156.50/PLTV/88888905/224/3221230039/100001000000000
 
 
 梅州频道,#genre#
-CCTV-1HD,http://wen.serv00.net/wen.php?id=1402
+CCTV-1HD,http://wen.serv00.net/wen.php?id=CCTV1HD_7000
 CCTV-5HD,http://wen.serv00.net/wen.php?id=1605
 CCTV-5+HD,http://wen.serv00.net/wen.php?id=1403
 CCTV-13HD,http://wen.serv00.net/wen.php?id=1613
